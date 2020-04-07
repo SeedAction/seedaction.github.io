@@ -1,257 +1,6 @@
 /**
  * Site header
  */
-/*.site-header {
-  //border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  padding: 10px;
-  min-height: $spacing-unit * 1.865;
-
-  // Positioning context for the mobile navigation icon
-  position: relative;
-}
-
-.site-logo {
-  float: left;
-
-  > img {
-    height: 64px;
-    width: auto;
-  }
-}
-
-.site-title {
-  @include relative-font-size(2.625);
-  font-weight: 600;
-  line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
-  margin-bottom: 0;
-
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
-}
-
-.site-kicker {
-  @include relative-font-size(.825);
-  line-height: $base-line-height * $base-font-size * 2.25;
-  margin-bottom: 0;
-}
-
-.site-nav {
-  float: right;
-
-  .nav-trigger {
-    display: none;
-  }
-
-  .menu-icon {
-    display: none;
-  }
-
-  .page-link {
-    color: $text-color;
-    line-height: $base-line-height;
-
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
-    }
-  }
-
-  @include media-query($on-palm) {
-    position: absolute;
-    top: 9px;
-    right: $spacing-unit / 2;
-    //background-color: red;
-    background-color: $background-color;
-    //border: 1px solid $grey-color-light;
-    //border-radius: 5px;
-    text-align: right;
-
-    label[for="nav-trigger"] {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 36px;
-      z-index: 2;
-      cursor: pointer;
-    }
-
-    .menu-icon {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
-      text-align: center;
-
-      > svg {
-        fill: $grey-color-dark;
-      }
-    }
-
-    input ~ .trigger {
-      clear: both;
-      display: none;
-    }
-
-    input:checked ~ .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-
-      &:not(:last-child) {
-        margin-right: 0;
-      }
-      margin-left: 10px;
-    }
-  }
-}*/
-
-/*body {
-  display: grid;
-  grid-template-columns: 4em 1fr 4em;
-  grid-template-rows: 4em 1auto 4em;
-  gap: 10px 10px;
-  grid-template-areas: "header header header" ". content ." "footer footer footer";
-}
-
-.site-header {
-  grid-area: header;
-  display: grid;
-  grid-template-areas:
-    "logo title menu"
-    "logo kicker menu";
-
-  .site-logo {
-    grid-area: logo;
-    place-self: center end;
-    height: auto;
-    width: 92px;
-    
-    img {
-      height: auto;
-      width: 92px;
-    }
-  }
-
-  .site-title {
-    grid-area: title;
-    place-self: start center;
-    font-size: 4em;
-  }
-
-  .site-kicker {
-    grid-area: kicker;
-    place-self: end center;
-  }
-
-  .site-nav {
-    grid-area: menu;
-    place-self: center end;
-
-    .nav-trigger {
-      display: none;
-    }
-  
-    .menu-icon {
-      display: none;
-    }
-  
-    .page-link {
-      color: $text-color;
-      line-height: $base-line-height;
-  
-      // Gaps between nav items, but not on the last one
-      &:not(:last-child) {
-        margin-right: 20px;
-      }
-    }
-
-  }
-
-  @include media-query($on-palm) {
-    grid-template-areas:
-      "logo title menu"
-      "logo kicker menu"
-      "menu2 menu2 menu2";
-    
-    .site-logo {
-      width: 64px;
-      img {
-        width: 64px;
-      }
-    }
-    .site-title {
-      font-size: 1.625em;
-    }
-    .site-nav {
-      .trigger {
-        grid-area: menu2;
-      }
-
-      label[for="nav-trigger"] {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 36px;
-        z-index: 2;
-        cursor: pointer;
-      }
-  
-      .menu-icon {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 26px;
-        line-height: 0;
-        padding-top: 10px;
-        text-align: center;
-  
-        > svg {
-          fill: $grey-color-dark;
-        }
-      }
-  
-      input ~ .trigger {
-        clear: both;
-        display: none;
-      }
-  
-      input:checked ~ .trigger {
-        display: block;
-        padding-bottom: 5px;
-      }
-  
-      .page-link {
-        display: block;
-        padding: 5px 10px;
-  
-        &:not(:last-child) {
-          margin-right: 0;
-        }
-        margin-left: 10px;
-      }
-    }
-  }
-}
-
-main {
-  grid-area: content;
-  display: grid;
-}
-
-.site-footer {
-  grid-area: footer;
-  display: grid;
-}*/
 
 .site-header {
   display: grid;
@@ -274,17 +23,26 @@ main {
     background: $background-alt-color;
     z-index: -1;
   }
+
+  @include media-query($on-palm) {
+    &::before {
+      top: 18%;
+      transform: translate(-50%, -130%) rotate(3deg);
+    }
+  }
 }
 
 .site-logo {
   grid-area: logo;
   height: 4em;
   place-self: center end;
+  margin-top: 1em;
   img {
     height: 4em;
     width: auto;
   }
 }
+
 .site-title {
   grid-area: title;
   place-self: center;
@@ -294,12 +52,19 @@ main {
     color: $text-color;
     text-decoration: none;
   }
+
+  @include media-query($on-palm) {
+    .site-title {
+      place-self: center start;
+    }
+  }
 }
 
 .site-kicker {
   grid-area: kicker;
   place-self: start center;
   font-size: .8em;
+  margin-bottom: 2em;
 }
 
 .site-nav {
@@ -393,18 +158,6 @@ main {
         margin-right: 0;
       }
       margin-left: 10px;
-    }
-  }
-}
-
-@include media-query($on-palm) {
-  .site-title {
-    place-self: center start;
-  }
-  .site-header {
-    &::before {
-      top: 18%;
-      transform: translate(-50%, -130%) rotate(3deg);
     }
   }
 }

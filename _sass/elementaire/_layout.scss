@@ -25,6 +25,7 @@
   }
 
   @include media-query($on-palm) {
+    overflow-x: hidden;
     &::before {
       top: 18%;
       transform: translate(-50%, -130%) rotate(3deg);
@@ -161,6 +162,7 @@
     }
   }
 }
+
 .event-list {
   list-style-type: none;
 }

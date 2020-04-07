@@ -262,7 +262,20 @@ main {
     "logo title"
     ". kicker"
     "menu menu";
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 21%;
+    left: 50%;
+    width: 120vw;
+    height: 30%;
+    transform: translate(-50%, -130%) rotate(1.2deg);
+    background: $background-alt-color;
+    z-index: -1;
+  }
 }
+
 .site-logo {
   grid-area: logo;
   height: 4em;
@@ -275,7 +288,12 @@ main {
 .site-title {
   grid-area: title;
   place-self: center;
+  font-family: $title-font-family;
   font-size: 3em;
+  &:visited, &:hover {
+    color: $text-color;
+    text-decoration: none;
+  }
 }
 
 .site-kicker {
@@ -285,9 +303,8 @@ main {
 }
 
 .site-nav {
-  //float: right;
   grid-area: menu;
-  display: grid;
+  place-self: center;
 
   .nav-trigger {
     display: none;
@@ -297,12 +314,17 @@ main {
     display: none;
   }
 
+  .menu-text {
+    display: none;
+  }
+
   .trigger {
     place-self: center;
   }
 
   .page-link {
     color: $text-color;
+    font-size: 1.2em;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -312,29 +334,36 @@ main {
   }
 
   @include media-query($on-palm) {
-    place-self: center;
-    //right: $spacing-unit / 2;
-    //background-color: red;
-    background-color: $background-color;
-    //border: 1px solid $grey-color-light;
-    //border-radius: 5px;
+    background-color: $background-alt-color;
     text-align: center;
+    width: 8em;
 
     label[for="nav-trigger"] {
       display: block;
       place-self: center;
-      //float: right;
-      width: 36px;
+      width: 8em;
       height: 36px;
+      text-align: center;
       z-index: 2;
       cursor: pointer;
     }
 
+    .menu-text {
+      display: block;
+      float: left;
+      width: 3.25em;
+      height: 26px;
+      padding-right:.75em;
+      padding-top: 5px;
+      text-transform: uppercase;
+    }
+
     .menu-icon {
       display: block;
-      //float: right;
-      width: 36px;
+      float: left;
+      width: 3.25em;
       height: 26px;
+      padding-left:.75em;
       line-height: 0;
       padding-top: 10px;
       text-align: center;
@@ -345,13 +374,15 @@ main {
     }
 
     input ~ .trigger {
-      clear: both;
       display: none;
     }
 
     input:checked ~ .trigger {
       display: block;
+      width: 22em;
+      transform: translateX(-7em);
       padding-bottom: 5px;
+      background: $background-alt-color;
     }
 
     .page-link {
@@ -363,8 +394,17 @@ main {
       }
       margin-left: 10px;
     }
-    .site-title {
-      place-self: center start;
+  }
+}
+
+@include media-query($on-palm) {
+  .site-title {
+    place-self: center start;
+  }
+  .site-header {
+    &::before {
+      top: 18%;
+      transform: translate(-50%, -130%) rotate(3deg);
     }
   }
 }

@@ -161,3 +161,16 @@
     }
   }
 }
+.event-list {
+  list-style-type: none;
+}
+
+.event {
+  border-bottom: solid $grey-color 1px;
+  margin-bottom: 4em;
+}
+
+.event__img {
+  max-width: 300px;
+  height: auto;
+}

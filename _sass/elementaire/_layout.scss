@@ -3,6 +3,10 @@
  */
 
 .site-header {
+  overflow: hidden;
+}
+
+.site-header {
   display: grid;
   grid-template-columns: 5em 1fr;
   grid-template-rows: 5em 2em 1auto;
@@ -49,6 +53,8 @@
   place-self: center;
   font-family: $title-font-family;
   font-size: 3em;
+  color: $text-color;
+  text-decoration: none;
   &:visited, &:hover {
     color: $text-color;
     text-decoration: none;

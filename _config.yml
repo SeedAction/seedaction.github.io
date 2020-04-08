@@ -28,6 +28,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+future: true
+
 facebook_username: agendarts
 
 # Build settings
@@ -39,7 +41,8 @@ plugins:
 
 # Collections
 collections:
-  - events
+  events:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -16,11 +16,13 @@ layout: default
     <ul class="event-list">
       {%- for event in site.events -%}
       <li class="event">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {% assign date_english = event.date | date: date_format %}
-        {% include date-french.html %}
+        {%- assign date_format = "%A %d %B" -%}
+        {%- assign date_english = event.date | date: date_format -%}
+        {%- include date-french.html -%}
         <a href="{{ event.url | relative_url }}">
-          <img class="event__img" src="{{ site.baseurl }}/assets/img/events/{{ event.img }}" alt="">
+          {%- if event.img -%}
+            <img class="event__img" src="{{ site.baseurl }}/assets/img/events/{{ event.img }}" alt="">
+          {%- endif -%}
           <div class="event__text">
             <h3 class="event__title">
               {{ event.title | escape }}

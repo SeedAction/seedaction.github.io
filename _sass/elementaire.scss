@@ -10,6 +10,13 @@
   font-style: normal;
 }
 @font-face {
+  font-family: 'gentium_basicbold';
+  src: url('../assets/fonts/gentium/genbasb-webfont.woff2') format('woff2'),
+       url('../assets/fonts/gentium/genbasb-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
   font-family: 'inkfree';
   src: url('../assets/fonts/Inkfree.ttf') format('truetype');
   font-weight: normal;
@@ -43,6 +50,7 @@ $content-width:    800px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
+$on-small-screen:  900px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {

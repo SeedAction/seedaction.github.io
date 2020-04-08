@@ -2,10 +2,6 @@
  * Site header
  */
 
-.body-wrapper {
-  overflow: hidden;
-}
-
 .site-header {
   display: grid;
   grid-template-columns: 5em 1fr;
@@ -101,11 +97,11 @@
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 40px;
+      margin-right: 70px;
     }
   }
 
-  @include media-query($on-palm) {
+  @include media-query($on-small-screen) {
     background-color: $background-alt-color;
     text-align: center;
     width: 8em;
@@ -169,16 +165,86 @@
   }
 }
 
+
+/**
+ * Events
+ */
+
 .event-list {
   list-style-type: none;
+  margin: 0;
 }
 
 .event {
-  border-bottom: solid $grey-color 1px;
-  margin-bottom: 4em;
-}
+  display: block;
+  max-width: 700px;
+  height: 300px;
+  position: relative;
+  margin: 0 auto 4em;
+  overflow: hidden;
 
-.event__img {
-  max-width: 300px;
-  height: auto;
+  &:hover .event__hover {
+    opacity: 1;
+  }
+
+  &__img {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: auto;
+    top: -50%;
+    @include media-query($on-small-screen) {
+      top: 0;
+    }
+  }
+
+  &__text {
+    display: inline;
+    color: #fff;
+    background-color: rgba(39, 39, 39, 0.4);
+    font-family: gentium_basicbold;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.5em;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+    padding: 0 .5em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    @include media-query($on-small-screen) {
+      display: block;
+      top: 40%;
+      left: 0;
+      transform: none;
+      max-width: 80%;
+      font-size: 24px;
+    }
+  }
+
+  &__hover {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    background-color:  rgba(0,0,0,0.4);
+    opacity: 0;
+    transition: .5s ease;
+  }
+
+  &__arrow {
+    color: #fff;
+    //background-color: rgb(39, 39, 39);
+    font-family: gentium_basicbold;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.5em;
+    text-shadow: 2px 2px 2px #000;
+    text-align: center;
+    padding: 0 .5em;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
 }

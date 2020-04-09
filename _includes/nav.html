@@ -1,0 +1,19 @@
+<div class="topnav" id="myTopnav">
+  {%- for item in include.nav -%}
+    {%- if item.top -%}
+      <div class="dropdown">
+        <button class="dropbtn"> {{ item.title }}
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          {%- for sub in item.subnav -%}
+            <a href="{{ sub.url }}">{{ sub.title }}</a>
+          {%- endfor -%}
+        </div>
+      </div>
+    {%- else -%}
+      <a href="{{ item.url }}">{{ item.title }}</a>
+    {%- endif -%}
+  {%- endfor -%}
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>

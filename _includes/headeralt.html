@@ -3,7 +3,7 @@
   {%- assign page_paths = site.header_pages | default: default_paths -%}
   <a class="site-logo" href="{{ "/" | relative_url }}"><img src="/assets/img/logo.png" alt="logo"></a>
   <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-  <span class="site-kicker">{{ site.kicker | escape }}</span>
+  <span class="site-kicker">{{ site.description | escape }}</span>
 
   {% include nav.html nav=site.data.main-menu.nav %}
 </header>

@@ -1,23 +1,19 @@
 <footer class="site-footer">
   <data href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        {%- include access.html -%}
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include newsletter.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        {%- include contact.html -%}
-      </div>
+  <h2 class="footer-heading">{{ site.title | escape }}</h2>
+  <div class="footer-col-wrapper">
+    <div class="footer-col footer-col-1">
+      {%- include access.html -%}
     </div>
 
+    <div class="footer-col footer-col-2">
+      {%- include newsletter.html -%}
+    </div>
+
+    <div class="footer-col footer-col-3">
+      {%- include contact.html -%}
+    </div>
   </div>
 
 </footer>

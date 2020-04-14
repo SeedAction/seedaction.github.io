@@ -266,10 +266,44 @@
  * Footer
  */
 
+.site-footer {
+  margin-top: 2em;
+  padding: 2em 4em;
+  position: relative;
+  background-color: $background-alt-color;
+  text-align: center;
+  
+  &::before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: $background-alt-color;
+    transform-origin: top left;
+    transform: skewY(-1.7deg);
+    z-index: -10;
+  }
+
+  & h3 {
+    font-weight: bold;
+    font-size: 2em;
+  }
+}
+
+.footer-heading {
+  font-family: $title-font-family;
+  font-size: 3em;
+  color: $text-color;
+  margin-bottom: 2em;
+}
+
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
+  text-align: left;
   @extend %clearfix;
 }
 
@@ -332,4 +366,26 @@
   height:100%;
   width:100%;
   position:absolute;
+}
+
+/**
+ * Newsletter
+ */
+.newsletter-btn {
+  display: inline-block;
+  width: 100px;
+  text-align: center;
+  background-color: $brand-color;
+  box-shadow:0 5px 0 darken($color: $brand-color, $amount: 15);
+  color:white;
+  padding:.5em 2.15em;
+  text-decoration:none;
+  text-transform:uppercase;
+}
+
+/**
+ * Contact list
+ */
+.contact-list {
+  list-style-type: none;
 }

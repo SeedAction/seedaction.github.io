@@ -364,13 +364,15 @@
  */
 .contact-list {
   list-style-type: none;
+  margin: 0;
 }
 
 /**
  * Page content
  */
-.heading-img {
-  margin-bottom: 2em;
+.heading-img, .feature-img {
+  display: block;
+  margin: 0 auto 2em;
 }
 
 
@@ -394,4 +396,13 @@
 .friend {
   display: inline-block;
   margin-bottom: 1em;
+}
+
+/**
+ * Partner
+ */
+.partner__logo {
+  display: block;
+  width: 100px;
+  margin: 0 auto 1em;
 }

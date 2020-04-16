@@ -1,0 +1,41 @@
+---
+layout: page
+title: L'association
+permalink: /association/
+heading-image: facade.jpg
+---
+
+<img class="heading-img" src="{{ site.baseurl }}/assets/img/{{ page.heading-image }}" alt="{{ page.heading-image }}">
+
+<h3>Historique</h3>
+<div class="wrapper">
+  <p>
+    L’association Agend’Arts a été créée en 1996 par <strong>René Lathuraz</strong>, restaurateur et <strong>Bernard Lloret</strong>, musicien, tous deux acteurs de l’animation et de la vie culturelle du <strong>quartier de la Croix-Rousse</strong> depuis les années 80. Son objet est d’animer un espace culturel de proximité en mettant en contact divers artistes et le public local, en présentant leurs recherches et travaux par le biais de <strong>rencontres culturelles</strong>.
+  </p>
+  <p>
+    Dès l’an 2000, l’association fut clairement identifiée par les habitants, ainsi que les artistes lyonnais comme un <strong>incontournable outil de promotion de la culture</strong> puis de <strong>découverte artistique</strong>. Depuis 2001, <strong>Guillaume Lloret</strong>, musicien de formation et médaille d’or de la ville en 2007 pour son dévouement associatif, est la cheville ouvrière de la structure.
+  </p>
+</div>
+
+<h3>Fonctionnement</h3>
+<div class="wrapper">
+  <p>
+    L’association organise environ <strong>220 soirées durant la saison</strong>. Nous programmons principalement des <strong>artistes régionaux, indépendants et pointus</strong> dans leur domaine. La priorité est portée à la création et à la <strong>qualité artistique</strong>. Nous mettons également l’accent sur la <strong>diversité</strong> de la programmation afin de permettre au public de proximité de découvrir différentes expressions artistiques : lecture, musique, chansons, théâtre et danse.
+  </p>
+  <p>
+    Les artistes que nous accueillons sont dans une <strong>proximité avec le public</strong> en raison de la taille du lieu (60m²), de la jauge (49 spectateurs max) et de l’<strong>accueil associatif et convivial</strong>. Cette proximité apporte aux artistes une qualité d’écoute et une attention particulière de la part du public.
+  </p>
+  <p>
+    Nous accueillons un public hétéroclite, <strong>intergénérationnel</strong> et principalement du quartier (1er et 4e arrondissements). Nous fidélisons les habitants du quartier par une programmation diversifiée et un <strong>tarif accessible</strong> à tous.
+  </p>
+  <p>
+    Suite au spectacle, les spectateurs peuvent <strong>partager un verre </strong>sur place.
+  </p>
+</div>
+
+<h3>Qui sommes-nous ?</h3>
+<div class="wrapper">
+  {%- for member in site.members -%}
+    {%- include member.html -%}
+  {%- endfor -%}
+</div>

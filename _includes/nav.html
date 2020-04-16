@@ -2,9 +2,15 @@
   {%- for item in include.nav -%}
     {%- if item.top -%}
       <div class="dropdown">
-        <button class="dropbtn"> {{ item.title }}
-          <i class="fa fa-caret-down"></i>
-        </button>
+        {%- if item.url -%}
+          <button onclick="window.location.href = '{{ item.url }}';" class="dropbtn"> {{ item.title }}
+            <i class="fa fa-caret-down"></i>
+          </button>
+        {%- else -%}
+          <button class="dropbtn"> {{ item.title }}
+            <i class="fa fa-caret-down"></i>
+          </button>
+        {%- endif -%}
         <div class="dropdown-content">
           {%- for sub in item.subnav -%}
             <a href="{{ sub.url }}">{{ sub.title }}</a>

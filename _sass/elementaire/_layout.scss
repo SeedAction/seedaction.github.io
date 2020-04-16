@@ -321,7 +321,7 @@
 }
 
 .footer-col {
-  width: 500px;
+  width: 450px;
   margin-bottom: 4em;
 }
 
@@ -364,4 +364,34 @@
  */
 .contact-list {
   list-style-type: none;
+}
+
+/**
+ * Page content
+ */
+.heading-img {
+  margin-bottom: 2em;
+}
+
+
+/**
+ * Member
+ */
+.member__img {
+  float: left;
+  width: 40%;
+  margin-right: 10px;
+}
+
+.member__title {
+  font-size: 1.3em;
+  font-weight: bolder;
+}
+
+/**
+ * Friend
+ */
+.friend {
+  display: inline-block;
+  margin-bottom: 1em;
 }

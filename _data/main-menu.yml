@@ -4,35 +4,35 @@ nav:
   url: /
 
 - title: Programmation
-  url: programmation
+  url: /programmation/
   top: true
   subnav:
     - title: Mai 2020
-      url: 2020-05
+      url: /2020-05/
       sub: true
     - title: Juin 2020
-      url: 2020-06
+      url: /2020-06/
       sub: true
 
 - title: L'association
-  url: association
+  url: /association/
 
 - title: Les ami.e.s
-  url: amies
+  url: /amies/
 
 - title: Cours et stages
   url:
   top: true
   subnav:
     - title: Les ateliers BD
-      url: bd
+      url: /bd/
       sub: true
     - title: Les stages de clown
-      url: clown
+      url: /clown/
       sub: true
     - title: Cours de guitare avec Philippe Lubin
-      url: guitare
+      url: /guitare/
       sub: true
 
 - title: Partenaires
-  url: partenaires
+  url: /partenaires/

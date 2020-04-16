@@ -1,0 +1,20 @@
+---
+layout: page
+title: Les ami.e.s
+permalink: /amies/
+---
+
+<div class="wrapper">
+  <p>
+    Des artistes qui sont passés à <strong>Agend'Arts</strong> ! Cliquez sur les images pour découvrir les univers des artistes croqués !
+  </p>
+  <p>
+    (Par <a href="https://www.facebook.com/priscillacocotte/">Cocotte Priscilla</a>)
+  </p>
+
+  <br>
+
+  {%- for friend in site.friends -%}
+    {%- include friend.html -%}
+  {%- endfor -%}
+</div>

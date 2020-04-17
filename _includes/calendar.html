@@ -63,13 +63,13 @@
   <table id="calendar">
       <thead>
         <tr>
-            <th>Sun</th>
-            <th>Mon</th>
-            <th>Tue</th>
-            <th>Wed</th>
-            <th>Thu</th>
-            <th>Fri</th>
-            <th>Sat</th>
+            <th>Lu</th>
+            <th>Ma</th>
+            <th>Me</th>
+            <th>Je</th>
+            <th>Ve</th>
+            <th>Sa</th>
+            <th>Di</th>
         </tr>
       </thead>
 
@@ -79,8 +79,8 @@
   </table>
 
   <div>
-      <button class="btn btn-outline-primary col-sm-6" id="previous" onclick="previous()">Previous</button>
-      <button class="btn btn-outline-primary col-sm-6" id="next" onclick="next()">Next</button>
+      <button class="btn btn-outline-primary col-sm-6" id="previous" onclick="previous()">Précédent</button>
+      <button class="btn btn-outline-primary col-sm-6" id="next" onclick="next()">Suivant</button>
   </div>
 </div>
 
@@ -114,13 +114,9 @@
       showCalendar(currentMonth, currentYear);
   }
 
-  console.log(today);
-  console.log(selectYear);
-  console.log(selectMonth);
-
   function showCalendar(month, year) {
 
-    let firstDay = (new Date(year, month)).getDay();
+    let firstDay = (new Date(year, month)).getDay() - 1;
     let daysInMonth = 32 - new Date(year, month, 32).getDate();
 
     let tbl = document.getElementById("calendar-body"); // body of the calendar
@@ -171,3 +167,11 @@
   }
 
 </script>
+
+<style>
+
+  .bg-info {
+    color: red;
+  }
+
+</style>

@@ -1,4 +1,4 @@
-<div class="calendar wrapper">
+<!-- <div class="calendar wrapper">
   <div class="month">
     <ul>
       <li class="prev">&#10094;</li>
@@ -50,15 +50,41 @@
     <li>30</li>
     <li>31</li>
   </ul>
+</div> -->
+
+
+<div class="calendar">
+  <div class="month">
+    <ul>
+      <li style="user-select: none; cursor: pointer;" class="prev" onclick="previous()">&#10094;</li>
+      <li style="user-select: none; cursor: pointer;" class="next" onclick="next()">&#10095;</li>
+      <li><span id="month">Août</span><br><span id="year" style="font-size:18px">2020</span></li>
+    </ul>
+  </div>
+  <table id="calendar">
+    <thead>
+      <tr style="text-align: center">
+          <th>Lu</th>
+          <th>Ma</th>
+          <th>Me</th>
+          <th>Je</th>
+          <th>Ve</th>
+          <th>Sa</th>
+          <th>Di</th>
+      </tr>
+    </thead>
+
+    <tbody id="calendar-body">
+
+    </tbody>
+</table>
 </div>
 
 
 
 
 
-
-
-<div class="wrapper"></div>
+<!-- <div class="wrapper"></div>
   <h3 id="monthAndYear"></h3>
   <table id="calendar">
       <thead>
@@ -79,10 +105,10 @@
   </table>
 
   <div>
-      <button class="btn btn-outline-primary col-sm-6" id="previous" onclick="previous()">Précédent</button>
-      <button class="btn btn-outline-primary col-sm-6" id="next" onclick="next()">Suivant</button>
+      <button id="previous" onclick="previous()">Précédent</button>
+      <button id="next" onclick="next()">Suivant</button>
   </div>
-</div>
+</div> -->
 
 
 
@@ -95,12 +121,15 @@
   currentYear = today.getFullYear();
   selectYear = document.getElementById("year");
   selectMonth = document.getElementById("month");
+  events = [];
 
-  months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];
+  {%- for event in include.events -%}
+    events.push({ date: {{event.date}} , title: '{{event.title}}' });
+  {%- endfor -%}
 
-  monthAndYear = document.getElementById("monthAndYear");
+  const months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];
+
   showCalendar(currentMonth, currentYear);
-
 
   function next() {
       currentYear = (currentMonth === 11) ? currentYear + 1 : currentYear;
@@ -125,7 +154,9 @@
     tbl.innerHTML = "";
 
     // filing data about month and in the page via DOM.
-    monthAndYear.innerHTML = months[month] + " " + year;
+    selectMonth.innerHTML = months[month];
+    selectYear.innerHTML = year;
+
     selectYear.value = year;
     selectMonth.value = month;
 
@@ -157,21 +188,34 @@
                 row.appendChild(cell);
                 date++;
             }
-
-
         }
-
         tbl.appendChild(row); // appending each row into calendar body.
     }
-
+    setEvents(events);
   }
 
+  function setEvents(events) {
+    let cells = document.querySelectorAll("td");
+
+    cells.forEach(cell => {
+      events.forEach(event => {
+        if (cell.innerHTML == event.date) {
+          cell.classList.add("calendar__event");
+          cell.innerHTML = '<a href="' + event.title + '">' + cell.innerHTML + '</a>';
+        }
+      });
+    });
+  }
 </script>
 
 <style>
 
   .bg-info {
     color: red;
+  }
+
+  .calendar__event {
+    color: lime;
   }
 
 </style>

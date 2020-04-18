@@ -124,7 +124,7 @@
   events = [];
 
   {%- for event in include.events -%}
-    events.push({ date: {{event.date}} , title: '{{event.title}}' });
+    events.push({ date: new Date("{{event.date | date: "%F %T"}}") , title: "{{event.title}}" , url: "{{event.url | relative_url}}" });
   {%- endfor -%}
 
   const months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];
@@ -191,17 +191,17 @@
         }
         tbl.appendChild(row); // appending each row into calendar body.
     }
-    setEvents(events);
+    setEvents(events, month, year);
   }
 
-  function setEvents(events) {
+  function setEvents(events, month, year) {
     let cells = document.querySelectorAll("td");
-
     cells.forEach(cell => {
       events.forEach(event => {
-        if (cell.innerHTML == event.date) {
+        console.log("optimize me!");
+        if (cell.innerHTML == event.date.getDate() && event.date.getMonth() == month) {
           cell.classList.add("calendar__event");
-          cell.innerHTML = '<a href="' + event.title + '">' + cell.innerHTML + '</a>';
+          cell.innerHTML = '<a href="' + event.url + '">' + cell.innerHTML + '</a>';
         }
       });
     });
@@ -212,10 +212,6 @@
 
   .bg-info {
     color: red;
-  }
-
-  .calendar__event {
-    color: lime;
   }
 
 </style>

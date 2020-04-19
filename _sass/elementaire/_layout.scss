@@ -326,7 +326,9 @@
       flex: 0 1 auto;
       height: 100%;
       overflow: hidden;
-      box-shadow: 2px 2px 3px $grey-color;
+      filter: drop-shadow(2px 2px 3px $grey-color);
+      -webkit-filter: drop-shadow(2px 2px 3px $grey-color);
+      -moz-filter: drop-shadow(2px 2px 3px $grey-color);
     }
   }
 

@@ -1,27 +1,21 @@
 ---
 layout: default
 ---
-<article class="event h-entry" itemscope itemtype="http://schema.org/Blogposting">
+<article class="single-event wrapper" itemscope itemtype="http://schema.org/Blogposting">
 
-  <header class="event-header">
-    <h1 class="event-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="event-meta">
+  <header class="single-event__header">
+    <h1 class="single-event__title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <img class="heading-img" src="{{ site.baseurl }}/assets/img/events/{{ page.img }}" alt="{{ page.img }}">
+    <p class="single-event__meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
+        {%- assign date_format = "%A %d %B" -%}
+        {%- assign date_english = page.date | date: date_format -%}
+        {%- include date-french.html -%}
+        {{ date_french }}
       </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
   </header>
 
-  <div class="event-content e-content" itemprop="articleBody">
+  <div class="single-event__content" itemprop="articleBody">
     {{ content }}
   </div>
-
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

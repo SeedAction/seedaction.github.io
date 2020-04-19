@@ -5,6 +5,14 @@
     box-sizing: border-box;
   }
 
+  table, th, td {
+    border: none;
+  }
+
+  td {
+    text-align: center;
+  }
+
   ul {
     list-style-type: none;
   }
@@ -42,41 +50,49 @@
     padding-top: 10px;
   }
 
-  /* Weekdays (Mon-Sun) */
-  .weekdays {
-    margin: 0;
-    padding: 10px 0;
-    background-color:#ddd;
+  /* Today */
+  .active {
+    color: $brand-color;
   }
 
-  .weekdays li {
+  &__event {
+    position: relative;
     display: inline-block;
-    width: 13.6%;
-    color: #666;
-    text-align: center;
+    width: 36%;
+    height: 0;
+    padding: 18% 0;
+    border-radius: 50%;
+    line-height: 0;
+    background-color: $brand-color;
+    color: white;
+    transition: all ease-in 0.1s;
+
+    &:visited, &:active {
+      color: white;
+    }
+
+    &:hover {
+      color: white;
+      text-decoration: none;
+    }
+
+    @include media-query($on-laptop) {
+      border: solid 1px $brand-color;
+      border-radius: 10%;
+      background-color: transparent;
+      color: $brand-color;
+      &:visited, &:active {
+        color: $brand-color;
+      }
+      &:hover {
+        color: $brand-color;
+      }
+    }
+
+    @include media-query($on-palm) {
+      border: none;
+      text-decoration: underline;
+    }
   }
 
-  /* Days (1-31) */
-  .days {
-    padding: 10px 0;
-    background: #eee;
-    margin: 0;
-  }
-
-  .days li {
-    list-style-type: none;
-    display: inline-block;
-    width: 13.6%;
-    text-align: center;
-    margin-bottom: 5px;
-    font-size:12px;
-    color: #777;
-  }
-
-  /* Highlight the "current" day */
-  .days li .active {
-    padding: 5px;
-    background: $brand-color;
-    color: white !important
-  }
 }

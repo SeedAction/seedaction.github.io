@@ -1,0 +1,7 @@
+---
+layout: event
+title:  "Soirée en partenariat avec l'ENM"
+date:   2018-04-12 14:52:51 +0200
+categories: event avril-2018
+img: enm.jpg
+---

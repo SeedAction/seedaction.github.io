@@ -274,8 +274,70 @@
  * Single event
  */
 
-article.event {
-  /* TODO */
+.single-event {
+  padding-bottom: 2em;
+
+  &__header {
+    margin-bottom: 2em;
+  }
+  
+  &__img-wrapper {
+    height: 200px;
+    width: 90%;
+    margin: 0 auto 4em;
+    overflow: hidden;
+    box-shadow: 3px 3px 2px $grey-color;
+    display: none;
+  }
+
+  &__heading-img {
+    display: block;
+    margin: 0 auto 2em;
+    position: relative;
+    top: -50%;
+  }
+
+  &__title {
+    font-size: 2em;
+    padding-left: .25em;
+    border-left: solid black .5em;
+  }
+
+  &__date {
+    display: block;
+    border-bottom: solid black 1px;
+    margin-left: 2em;
+    font-size: 1.4em;
+  }
+
+  &__content {
+    & p {
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: space-evenly;
+      align-items: center;
+      row-gap: 1.2em;
+    }
+    & img {
+      min-width: 0;
+      min-height: 0;
+      max-width: 40%;
+      flex: 0 1 auto;
+      height: 100%;
+      overflow: hidden;
+      box-shadow: 2px 2px 3px $grey-color;
+    }
+  }
+
+  &__order {
+    float: right;
+    font-weight: bolder;
+    &--sub {
+      font-weight: normal;
+      font-style: italic;
+      color: $grey-color;
+    }
+  }
 }
 
 /**

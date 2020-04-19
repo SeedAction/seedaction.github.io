@@ -5,17 +5,22 @@ layout: default
 
   <header class="single-event__header">
     <h1 class="single-event__title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <img class="heading-img" src="{{ site.baseurl }}/assets/img/events/{{ page.img }}" alt="{{ page.img }}">
-    <p class="single-event__meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = "%A %d %B" -%}
-        {%- assign date_english = page.date | date: date_format -%}
-        {%- include date-french.html -%}
-        {{ date_french }}
-      </time>
+    <div class="single-event__img-wrapper">
+      <img class="single-event__heading-img" src="{{ site.baseurl }}/assets/img/events/{{ page.img }}" alt="{{ page.img }}">
+    </div>
+    <time class="single-event__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {%- assign date_format = "%A %d %B" -%}
+      {%- assign date_english = page.date | date: date_format -%}
+      {%- include date-french.html -%}
+      {{ date_french }}, à {{ page.horaire | default: "20h" }}
+    </time>
   </header>
 
   <div class="single-event__content" itemprop="articleBody">
     {{ content }}
+  </div>
+
+  <div class="single-event__order">
+    <a href="#" onclick="alert('Billeterie?')">Tarif : {{ page.tarif | default: "5€" }}<span class="single-event__order--sub"> (+ adhésion à l'association)</span></a>
   </div>
 </article>

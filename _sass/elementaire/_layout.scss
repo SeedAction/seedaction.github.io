@@ -182,90 +182,225 @@
 /**
  * Event list
  */
+// .event-list {
+//   list-style-type: none;
+//   margin: 0;
+
+//   .event {
+//     display: block;
+//     border-radius: 2px;
+//     max-width: 700px;
+//     height: 300px;
+//     position: relative;
+//     margin: 0 auto 4em;
+//     overflow: hidden;
+//     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+//     transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  
+//     &:hover {
+//       box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+//     }
+  
+  
+//     &:hover .event__overlay {
+//       opacity: 1;
+//     }
+  
+//     &__img {
+//       display: block;
+//       position: relative;
+//       width: 100%;
+//       height: auto;
+//       top: -50%;
+//       @include media-query($on-small-screen) {
+//         top: 0;
+//       }
+//     }
+  
+//     &__text {
+//       display: inline;
+//       color: #fff;
+//       background-color: rgba(39, 39, 39, 0.4);
+//       font-family: gentium_basicbold;
+//       font-size: 30px;
+//       font-weight: bold;
+//       line-height: 1.2em;
+//       text-shadow: 1px 1px 1px #000;
+//       padding: 0 .5em;
+//       position: absolute;
+//       top: 50%;
+//       left: 50%;
+//       transform: translate(-50%, -50%);
+//       @include media-query($on-small-screen) {
+//         display: block;
+//         top: 40%;
+//         left: 0;
+//         transform: none;
+//         max-width: 80%;
+//         font-size: 24px;
+//       }
+//     }
+  
+//     &__overlay {
+//       position: absolute;
+//       top: 0;
+//       height: 100%;
+//       width: 100%;
+//       background-color:  rgba(0,0,0,0.4);
+//       opacity: .7;
+//       transition: .5s ease;
+//       @include media-query($on-small-screen) {
+//         opacity: 0;
+//       }
+//     }
+  
+//     &__arrow {
+//       color: #fff;
+//       font-family: gentium_basicbold;
+//       font-size: 30px;
+//       font-weight: bold;
+//       line-height: 1.5em;
+//       text-shadow: 1px 1px 1px #000;
+//       text-align: center;
+//       padding: 0 .5em;
+//       position: absolute;
+//       right: 0;
+//       bottom: 0;
+//     }
+//   }
+// }
+
 .event-list {
   list-style-type: none;
   margin: 0;
 
-  .event {
-    display: block;
-    border-radius: 2px;
-    max-width: 700px;
-    height: 300px;
+  & .event {
     position: relative;
-    margin: 0 auto 4em;
-    overflow: hidden;
+    max-width: 700px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
-  
-    &:hover {
-      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    margin: 0 auto 2em;
+
+    & a {
+      display: grid;
+      grid-template-columns: 30% 1fr;
+      grid-template-areas: 
+        "img text";
+      color: $text-color;
+      text-decoration: none;
+      &:hover, &:visited {
+        color: $text-color;
+        text-decoration: none;
+      }
+      &:hover {
+        color: $brand-color;
+        text-decoration: underline;
+      }
     }
-  
-  
-    &:hover .event__overlay {
-      opacity: 1;
-    }
-  
+
     &__img {
-      display: block;
-      position: relative;
-      width: 100%;
-      height: auto;
-      top: -50%;
-      @include media-query($on-small-screen) {
-        top: 0;
-      }
+      max-width: 100%;
+      grid-area: img;
     }
-  
+
     &__text {
-      display: inline;
-      color: #fff;
-      background-color: rgba(39, 39, 39, 0.4);
-      font-family: gentium_basicbold;
-      font-size: 30px;
-      font-weight: bold;
-      line-height: 1.2em;
-      text-shadow: 1px 1px 1px #000;
-      padding: 0 .5em;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      @include media-query($on-small-screen) {
-        display: block;
-        top: 40%;
-        left: 0;
-        transform: none;
-        max-width: 80%;
-        font-size: 24px;
-      }
+      grid-area: text;
+      place-self: stretch;
+      padding: 16px;
+
+      display: grid;
+      grid-template-rows: 2fr 1fr;
+      grid-template-columns: 2fr 1fr;
+      grid-template-areas:
+        "title title"
+        ". date";
     }
-  
+
+    &__title {
+      grid-area: title;
+      place-self: center start;
+      margin: 0;
+      font-size: 2em;
+    }
+
+    &__date {
+      grid-area: date;
+      place-self: center start;
+    }
+
     &__overlay {
-      position: absolute;
-      top: 0;
-      height: 100%;
-      width: 100%;
-      background-color:  rgba(0,0,0,0.4);
-      opacity: .7;
-      transition: .5s ease;
-      @include media-query($on-small-screen) {
+      display: none;
+    }
+
+    @include media-query($on-medium-screen) {
+      display: block;
+      border-radius: 2px;
+      height: 300px;
+      overflow: hidden;
+
+      & a {
+        display: inline;
+      }
+      &__img {
+        display: block;
+        position: relative;
+        width: 100%;
+        height: auto;
+      }
+      &__text {
+        position: absolute;
+        display: block;
+        max-width: 80%;
+        color: #fff;
+        background-color: rgba(39, 39, 39, 0.4);
+        font-family: gentium_basicbold;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 2em;
+        text-shadow: 1px 1px 1px #000;
+        padding: 0 .5em;
+        top: 40%;
+      }
+      &__title {
+        margin-bottom: 15px;
+      }
+      &__overlay {
+        display: block;
+        position: absolute;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background-color:  rgba(0,0,0,0.4);
+        transition: .5s ease;
         opacity: 0;
       }
+    
+      &__arrow {
+        color: #fff;
+        font-family: gentium_basicbold;
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 1.5em;
+        text-shadow: 1px 1px 1px #000;
+        text-align: center;
+        padding: 0 .5em;
+        position: absolute;
+        right: 0;
+        bottom: 0;
+      }
+
+      &:hover .event__overlay {
+        opacity: 1;
+      }
     }
-  
-    &__arrow {
-      color: #fff;
-      font-family: gentium_basicbold;
-      font-size: 30px;
-      font-weight: bold;
-      line-height: 1.5em;
-      text-shadow: 1px 1px 1px #000;
-      text-align: center;
-      padding: 0 .5em;
-      position: absolute;
-      right: 0;
-      bottom: 0;
+    @include media-query($on-palm) {
+      &__text {
+        font-size: 16px;
+      }
+    }
+    @include media-query($on-very-small-screen) {
+      &__text {
+        font-size: 14px;
+      }
     }
   }
 }

@@ -22,12 +22,14 @@ layout: default
         <a href="{{ event.url | relative_url }}">
           {%- if event.img -%}
             <img class="event__img" src="{{ site.baseurl }}/assets/img/events/{{ event.img }}" alt="{{ event.img }}">
+          {% else %}
+            <img class="event__img" src="{{ site.baseurl }}/assets/img/logo.png" alt="evenement">
           {%- endif -%}
           <div class="event__text">
             <h3 class="event__title">
               {{ event.title | escape }}
             </h3>
-            <span class="event__meta">{{ date_french }}</span>
+            <span class="event__date">{{ date_french }}</span>
           </div>
           <div class="event__overlay">
             <span class="event__arrow">&#8594;</span>

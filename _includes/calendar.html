@@ -42,8 +42,12 @@
   const gestureTarget = document.getElementById("calendar");
   const gesture = new TinyGesture(gestureTarget);
 
-  gesture.on('swiperight', next());
-  gesture.on('swipeleft', previous());
+  gesture.on('swiperight', event => {
+    next();
+  });
+  gesture.on('swipeleft', event => {
+    previous();
+  });
 
   showCalendar(currentMonth, currentYear);
 

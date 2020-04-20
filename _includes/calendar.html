@@ -42,10 +42,10 @@
   const gestureTarget = document.getElementById("calendar");
   const gesture = new TinyGesture(gestureTarget);
 
-  gesture.on('swiperight', event => {
+  gesture.on('swipeleft', event => {
     next();
   });
-  gesture.on('swipeleft', event => {
+  gesture.on('swiperight', event => {
     previous();
   });
 

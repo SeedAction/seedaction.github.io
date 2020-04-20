@@ -1,4 +1,4 @@
-<div class="calendar">
+<div class="calendar" id="calendar">
   <div class="month">
     <ul>
       <li style="user-select: none; cursor: pointer;" class="prev" onclick="previous()">&#10094;</li>
@@ -38,6 +38,12 @@
   {% endfor %}
 
   const months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];
+
+  const gestureTarget = document.getElementById("calendar");
+  const gesture = new TinyGesture(gestureTarget);
+
+  gesture.on('swiperight', next());
+  gesture.on('swipeleft', previous());
 
   showCalendar(currentMonth, currentYear);
 

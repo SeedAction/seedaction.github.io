@@ -12,8 +12,7 @@
     "menu menu";
   margin-bottom: 2em;
 
-  &::before {
-    content: '';
+  &__background {
     position: absolute;
     top: 21%;
     left: 50%;

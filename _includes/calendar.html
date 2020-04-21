@@ -1,5 +1,5 @@
 <div class="calendar" id="calendar">
-  <div class="month">
+  <div class="month" id="month-selector">
     <ul>
       <li style="user-select: none; cursor: pointer;" class="prev" onclick="previous()">&#10094;</li>
       <li style="user-select: none; cursor: pointer;" class="next" onclick="next()">&#10095;</li>
@@ -39,7 +39,7 @@
 
   const months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];
 
-  const gestureTarget = document.getElementById("calendar");
+  const gestureTarget = document.getElementById("month-selector");
   const gesture = new TinyGesture(gestureTarget);
 
   gesture.on('swipeleft', event => {

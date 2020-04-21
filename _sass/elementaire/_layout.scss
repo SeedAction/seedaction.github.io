@@ -78,13 +78,13 @@
   width: 90%;
   margin: auto;
   grid-area: menu;
-  border-bottom: solid 1px #555;
+  border-bottom: solid 1px $brand-color;
 }
 
 .topnav a {
   float: left;
   display: block;
-  color: #333;
+  color: #222;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -104,7 +104,7 @@
   font-size: 17px;    
   border: none;
   outline: none;
-  color: #333;
+  color: #222;
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
@@ -112,7 +112,7 @@
 }
 
 .fa-caret-down {
-  color: #555;
+  color: $brand-color;
 }
 
 .dropdown-content {
@@ -126,7 +126,7 @@
 
 .dropdown-content a {
   float: none;
-  color: black;
+  color: #222;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -134,13 +134,13 @@
 }
 
 .topnav a:hover, .dropdown:hover .dropbtn {
-  background-color: #555;
+  background-color: $brand-color;
   color: white;
 }
 
 .dropdown-content a:hover {
   background-color: #ddd;
-  color: black;
+  color: #222;
 }
 
 .dropdown:hover .dropdown-content {

@@ -1,15 +1,13 @@
 <h3>Nous contacter</h3>
 <ul class="contact-list">
-  <li class="contact__address">
-    <p>
-      {{ site.address1 }} <br>
-      {{ site.address2 }}
-    </p>
+  <li class="contact-list__address">
+    {{ site.address1 }} <br>
+    {{ site.address2 }}
   </li>
-  <li class="contact__phone">
-    <p>{{ site.phone }}</p>
+  <li class="contact-list__phone">
+    {{ site.phone }}
   </li>
-  <li class="contact__mail">
+  <li class="contact-list__mail">
     <a href="mailto:{{ site.email }}">{{ site.email }}</a>
   </li>
 </ul>

@@ -26,7 +26,7 @@ collections:
     permalink: /:name/
   events:
     output: true
-    permalink: /:collection/:year/:month/:title
+    permalink: /:collection/:year/:month/:day/:title
   members:
     output: false
   friends:

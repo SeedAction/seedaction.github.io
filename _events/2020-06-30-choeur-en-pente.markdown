@@ -3,7 +3,10 @@ layout: event
 title:  "Choeur en pente (Spectacle de fin d'année des élèves d'Hélène Piris)"
 date:   2020-06-30 14:52:51 +0200
 month: juin-2020
+horaire: 19h
+tarif: 38€
 img: helene-piris.jpg
+tickets: https://www.helloasso.com/associations/abra/evenements/choeur-en-pente-spectacle-de-fin-d-annee-des-eleves-d-helene-piris
 ---
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt, lorem vel ullamcorper bibendum, orci augue posuere mi, eu tempor ex magna ac turpis. Nunc convallis in nisi at facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi a commodo quam. Nulla faucibus varius pretium. Cras tristique vehicula leo, ac hendrerit ex maximus sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan ac ipsum at pellentesque. In pharetra cursus ornare. Proin non pellentesque ex.

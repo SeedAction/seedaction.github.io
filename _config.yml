@@ -23,7 +23,7 @@ plugins:
 collections:
   months:
     output: true
-    permalink: /:name
+    permalink: /:name/
   events:
     output: true
     permalink: /:collection/:year/:month/:title

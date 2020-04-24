@@ -8,16 +8,16 @@ nav:
   top: true
   subnav:
     - title: Avril 2018
-      url: /avril-2018/
+      url: /avril-2018
       sub: true
     - title: Avril 2020
-      url: /avril-2020/
+      url: /avril-2020
       sub: true
     - title: Mai 2020
-      url: /mai-2020/
+      url: /mai-2020
       sub: true
     - title: Juin 2020
-      url: /juin-2020/
+      url: /juin-2020
       sub: true
 
 - title: L'association

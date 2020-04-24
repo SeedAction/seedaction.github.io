@@ -9,10 +9,6 @@ layout: default
 
   {{ content }}
 
-  {%- for month in site.months -%}
-    <a href="{{ month.url }}">{{ month.title }}</a><br>
-  {%- endfor -%}
-
   {%- if site.events.size > 0 -%}
     <h2 class="event-list-heading">{{ page.list_title | default: "À venir" }}</h2>
     <ul class="event-list">

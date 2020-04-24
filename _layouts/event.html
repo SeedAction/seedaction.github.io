@@ -21,6 +21,10 @@ layout: default
   </div>
 
   <div class="single-event__order">
-    <a href="#" onclick="alert('Billeterie?')">Tarif : {{ page.tarif | default: "5€" }}<span class="single-event__order--sub"> (+ adhésion à l'association)</span></a>
+    <a href="https://www.helloasso.com/associations/abra/evenements/choeur-en-pente-spectacle-de-fin-d-annee-des-eleves-d-helene-piris">Tarif : {{ page.tarif | default: "5€" }}<span class="single-event__order--sub"> (+ adhésion à l'association)</span></a>
   </div>
 </article>
+
+<div class="wrapper single-event__helloasso">
+  <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/abra/evenements/choeur-en-pente-spectacle-de-fin-d-annee-des-eleves-d-helene-piris/widget" style="width:100%;height:950px;border:none;" onload="window.scroll(0, this.offsetTop)"></iframe>
+</div>

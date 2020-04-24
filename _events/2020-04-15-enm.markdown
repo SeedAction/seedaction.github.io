@@ -2,7 +2,7 @@
 layout: event
 title:  "Soirée en partenariat avec l'ENM"
 date:   2020-04-15 14:52:51 +0200
-categories: event avril-2020
+month: avril-2020
 img: enm.jpg
 ---
 

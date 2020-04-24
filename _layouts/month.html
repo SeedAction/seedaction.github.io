@@ -1,0 +1,37 @@
+---
+layout: page
+---
+
+{%- assign events = site.events | where: "month", page.month -%}
+{%- assign sorted_events = events | sort: 'date' -%}
+{% if events.size > 0 %}
+    <ul class="event-list">
+    {%- for event in sorted_events -%}
+        <li class="event">
+            {%- assign date_format = "%A %d %B" -%}
+            {%- assign date_english = event.date | date: date_format -%}
+            {%- include date-french.html -%}
+            <a href="{{ event.url | relative_url }}">
+                {%- if event.img -%}
+                <img class="event__img" src="{{ site.baseurl }}/assets/img/events/{{ event.img }}" alt="{{ event.img }}">
+                {% else %}
+                <img class="event__img" src="{{ site.baseurl }}/assets/img/logo.png" alt="evenement">
+                {%- endif -%}
+                <div class="event__text">
+                    <h3 class="event__title">
+                        {{ event.title | escape }}
+                    </h3>
+                    <span class="event__date">{{ date_french }}</span>
+                </div>
+                <div class="event__overlay">
+                    <span class="event__arrow">&#8594;</span>
+                </div>
+            </a>
+        </li>
+        {%- endfor -%}
+    </ul>
+{% else %}
+    <div class="wrapper ">
+        Aucun évènement n'est encore prévu pour ce mois-ci.
+    </div>
+{% endif %}

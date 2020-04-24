@@ -2,7 +2,7 @@
 layout: event
 title:  "Boeuf d'Agend'Arts pour la fête de la musique"
 date:   2020-06-21 14:52:51 +0200
-categories: event juin-2020
+month: juin-2020
 ---
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt, lorem vel ullamcorper bibendum, orci augue posuere mi, eu tempor ex magna ac turpis. Nunc convallis in nisi at facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi a commodo quam. Nulla faucibus varius pretium. Cras tristique vehicula leo, ac hendrerit ex maximus sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan ac ipsum at pellentesque. In pharetra cursus ornare. Proin non pellentesque ex.

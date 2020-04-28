@@ -1,0 +1,41 @@
+{%- if site.events.size > 0 -%}
+  <h2 class="event-list-heading">À venir</h2>
+  <ul class="event-list">
+
+    {%- capture now -%}{{ 'now' | date: '%s' | plus: 0 }}{%- endcapture -%}
+    {%- for event in site.events -%}
+      {%- capture date -%}{{ event.date | date: '%s' | plus: 0 }}{%- endcapture -%}
+      {%- unless date < now -%}
+        {%- comment -%}using cycle to display 5 upcoming events{%- endcomment -%}
+        {%- capture index -%}{% cycle '1', '2', '3', '4', '5' %}{%- endcapture -%}
+
+        <li class="event">
+          {%- assign date_format = "%A %d %B" -%}
+          {%- assign date_english = event.date | date: date_format -%}
+          {%- include date-french.html -%}
+          <a href="{{ event.url | relative_url }}">
+            {%- if event.img -%}
+              <img class="event__img" src="{{ site.baseurl }}/assets/img/events/{{ event.img }}" alt="{{ event.img }}">
+            {% else %}
+              <img class="event__img" src="{{ site.baseurl }}/assets/img/logo.png" alt="evenement">
+            {%- endif -%}
+            <div class="event__text">
+              <h3 class="event__title">
+                {{ event.title | escape }}
+              </h3>
+              <span class="event__date">{{ date_french }}</span>
+            </div>
+            <div class="event__overlay">
+              <span class="event__arrow">&#8594;</span>
+            </div>
+          </a>
+        </li>
+
+        {%- comment -%}exit loop when cycle is 5{%- endcomment -%}
+        {% if index == '5' %}
+          {%- break -%}
+        {% endif %}
+      {%- endunless -%}
+    {%- endfor -%}
+  </ul>
+{%- endif -%}

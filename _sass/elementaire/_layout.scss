@@ -434,6 +434,15 @@
     color: darken($color: $grey-color, $amount: 15);
 
   }
+
+  & .footer-legal {
+    font-weight: normal;
+    @include relative-font-size(.7);
+    color: $grey-color;
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }
 
 .footer-heading {

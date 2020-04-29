@@ -7,6 +7,7 @@ address1: 4 rue Belfort
 address2: 69004 Lyon
 phone: 09 51 00 00 00
 facebook_username: agendarts
+wordpress_url: https://agendarts.wordpress.com/
 
 # Routing
 baseurl: ""

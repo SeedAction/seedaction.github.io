@@ -536,14 +536,20 @@
 
 
 /**
- * Friend
+ * Friends
  */
 
-.friend {
-  display: inline-block;
-  margin-bottom: 1em;
+.friends {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  & .friend {
+    margin-bottom: 1em;
+    &__img {
+      max-width: 300px;
+    }
+  } 
 }
-
 
 /**
  * Partner

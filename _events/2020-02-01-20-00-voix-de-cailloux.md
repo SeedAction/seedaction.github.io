@@ -1,0 +1,16 @@
+---
+layout: event
+title:  "Voix de cailloux"
+date:   2020-02-01 20:00:00 +0200
+month: février-2020
+image: /wp-content/uploads/2019/10/photo-bernard-carrecc81--1200x1200.jpg
+---
+**[<img class="wp-image-7198 alignleft" src="http://localhost/wpagendarts/wp-content/uploads/2019/10/photo-bernard-carrecc81-.jpg?w=300" alt="" width="197" height="209" />](http://localhost/wpagendarts/wp-content/uploads/2019/10/photo-bernard-carrecc81-.jpg)Jeudi 30, vendredi 31 janvier, samedi 1er à 20h  
+** **et dimanche 2 février à 18h****  
+** <span style="font-weight:400;">8/13€</span>
+
+ <span style="font-weight:400;"><b>Jeudi 30, vendredi 31 janvier</b> :<br /> <strong>Imposteuse</strong><br /> </span><span style="font-weight:400;">Joué par</span> **Valérie Guillon-Brun**<span style="font-weight:400;">. «  Il n’y a pas de féminin pour  imposteur, comme si nous les filles, nous ne savions pas simuler comme tout le monde. Alors oui, je suis imposteuse, usineuse de mots ».</span>
+
+<span style="font-weight:400;">S<b>amedi 1er à 20h </b><b>et dimanche 2 février à 18h</b><br /> </span><span style="font-weight:400;"><strong>Voix de Cailloux</strong><br /> Des Chansons inédites de </span>**Jacques Debronckart.** <span style="font-weight:400;">Accompagné au piano par </span>**Nathalie Fortin**<span style="font-weight:400;">. </span><span style="font-weight:400;">« </span><span style="font-weight:400;">On est aussi ce que les autres font de nous, dit-on. Et bien disons que je me suis laissé faire, depuis des années par ce <strong>Jacques Debronckart</strong>  là, doucement, secrètement ».</span>
+
+[<span style="font-weight:400;">http://www.remogary.com</span>](http://www.remogary.com/)

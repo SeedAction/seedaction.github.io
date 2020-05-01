@@ -1,0 +1,13 @@
+---
+layout: event
+title:  "Slamarilla (Scène ouverte slam)"
+date:   2019-04-05 20:00:00 +0200
+month: avril-2019
+---
+<span style="font-weight:400;"><img class=" size-medium wp-image-5732 alignleft" src="http://localhost/wpagendarts/wp-content/uploads/2018/12/46767517_2219858944935957_8768189470089412608_n.jpg?w=300" alt="46767517_2219858944935957_8768189470089412608_n" width="300" height="110" srcset="http://localhost/wpagendarts/wp-content/uploads/2018/12/46767517_2219858944935957_8768189470089412608_n.jpg 960w, http://localhost/wpagendarts/wp-content/uploads/2018/12/46767517_2219858944935957_8768189470089412608_n-300x110.jpg 300w, http://localhost/wpagendarts/wp-content/uploads/2018/12/46767517_2219858944935957_8768189470089412608_n-768x282.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" />Vendredi 5 à 20h<br /> </span>**Slamarilla** <span style="font-weight:400;">(ouverture à 19h30: buffet offert puis démarrage à 20h)<br /> Prix libre / 5€</span>
+
+&nbsp;
+
+<span style="font-weight:400;">Organisé par La déchirature</span><span style="font-weight:400;"><br /> </span><span style="font-weight:400;">Animé par</span> **Marco DSL**<span style="font-weight:400;"><br /> </span><span style="font-weight:400;">Avis aux amateurs de Slam : bavardeur, slamineur de fond, académilicien, poète maudit, poète classique, Very Important Poète, féru de poérésie, travailleur du verbe, intermittent de l’écriture, dur de la feuille, militant verbal, rimeur à gage, bête à concours, oiseau lyrique, slamentable, obsédé textuel, et bien sûr le public sont les bienvenus… pour ce RDV mensuel à agend’Arts.</span><span style="font-weight:400;"><br /> </span><span style="font-weight:400;">Scène ouverte à tout le monde sur inscription, pas de tri au préalable, pas de censure, 5 minutes (à gérer) sans musique, ou accessoires, car seul le texte prime, 1 texte dit égale un verre, 50 textes dit égal un verre.</span>
+
+<span style="font-weight:400;"><br /> </span>[_<span style="font-weight:400;">http://www.myspace.com/marcodslslam</span>__<span style="font-weight:400;"><br /> </span>_](http://www.myspace.com/marcodslslam)[_<span style="font-weight:400;">http://www.myspace.com/cieell</span>__<span style="font-weight:400;"><br /> </span>_](http://www.myspace.com/cieell)[_<span style="font-weight:400;">http://www.myspace.com/amasseursdemots</span>__<span style="font-weight:400;"><br /> </span>_](http://www.myspace.com/amasseursdemots)[_<span style="font-weight:400;">http://www.myspace.com/slamlhommegeant</span>__<span style="font-weight:400;"><br /> </span>_](http://www.myspace.com/slamlhommegeant)[_<span style="font-weight:400;">http://www.myspace.com/lacamarilla</span>_](http://www.myspace.com/lacamarilla)

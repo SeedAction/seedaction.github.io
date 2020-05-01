@@ -7,17 +7,70 @@ nav:
   url: /programmation/
   top: true
   subnav:
-    - title: Avril 2018
-      url: /avril-2018/
+    # - title: Avril 2018
+    #   url: /2018-04/
+    #   sub: true
+    # - title: Mai 2018
+    #   url: /2018-05/
+    #   sub: true
+    # - title: Octobre 2018
+    #   url: /2018-10/
+    #   sub: true
+    # - title: Novembre 2018
+    #   url: /2018-11/
+    #   sub: true
+    # - title: Décembre 2018
+    #   url: /2018-12/
+    #   sub: true
+
+    # - title: Janvier 2019
+    #   url: /2019-01/
+    #   sub: true
+    # - title: Février 2019
+    #   url: /2019-02/
+    #   sub: true
+    # - title: Mars 2019
+    #   url: /2019-03/
+    #   sub: true
+    # - title: Avril 2019
+    #   url: /2019-04/
+    #   sub: true
+    # - title: Mai 2019
+    #   url: /2019-05/
+    #   sub: true
+    # - title: Juin 2019
+    #   url: /2019-06/
+    #   sub: true
+    # - title: Juillet 2019
+    #   url: /2019-07/
+    #   sub: true
+    # - title: Septembre 2019
+    #   url: /2019-09/
+    #   sub: true
+    # - title: Octobre 2019
+    #   url: /2019-10/
+    #   sub: true
+    # - title: Novembre 2019
+    #   url: /2019-11/
+    #   sub: true
+    # - title: Décembre 2019
+    #   url: /2019-12/
+    #   sub: true
+
+    - title: Janvier 2020
+      url: /2020-01/
+      sub: true
+    - title: Février 2020
+      url: /2020-02/
+      sub: true
+    - title: Mars 2020
+      url: /2020-03/
       sub: true
     - title: Avril 2020
-      url: /avril-2020/
+      url: /2020-04/
       sub: true
     - title: Mai 2020
-      url: /mai-2020/
-      sub: true
-    - title: Juin 2020
-      url: /juin-2020/
+      url: /2020-05/
       sub: true
 
 - title: L'association

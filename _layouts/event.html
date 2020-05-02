@@ -22,11 +22,11 @@ layout: default
 
   {% if page.tickets %}
     <div class="single-event__order">
-      <a href="{{ page.tickets }}">Tarif : {{ page.tarif | default: "5€" }}<span class="single-event__order--sub"> (+ adhésion à l'association)</span></a>
+      <a href="{{ page.tickets }}">Tarif : {{ page.tarif | default: "5€" }}<span class="single-event__order--sub"> (+ adhésion à l'association, 5€)</span></a>
     </div>
   {% else %}
     <div class="single-event__order">
-      <a href="#">Tarif : {{ page.tarif | default: "5€" }}<span class="single-event__order--sub"> (+ adhésion à l'association)</span></a>
+      <a href="#">Tarif : {{ page.tarif | default: "5€" }}<span class="single-event__order--sub"> (+ adhésion à l'association, 5€)</span></a>
     </div>  
   {% endif %}
 </article>

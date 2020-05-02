@@ -3,15 +3,16 @@ layout: event
 title:  "Drôles d'oiseaux"
 date:   2019-04-23 11:00:00 +0200
 month: avril-2019
-image: /wp-content/uploads/2019/02/histoire-a-mains.accordelyonjpg-1200x1200.jpg
+image: histoire-a-mains.acc
 ---
-<img class=" size-thumbnail wp-image-6046 alignleft" src="http://localhost/wpagendarts/wp-content/uploads/2019/02/histoire-a-mains.accordelyonjpg.jpg?w=150" alt="histoire a mains.accordelyonjpg" width="150" height="150" />
+
+
 
 Mardi 23, mercredi 24 AVRIL à 11H et à 15H30.  
 **« DROLES D'OISEAUX »**  
 5/10€
 
-&nbsp;
+
 
 CIE HISTOIRES A MAINS
 

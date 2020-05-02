@@ -3,15 +3,17 @@ layout: event
 title:  "Mouettes & Chansons"
 date:   2019-02-08 20:00:00 +0200
 month: février-2019
+image: mouettecfdb.jpg
 ---
-<img class="alignleft size-medium wp-image-5630" src="http://localhost/wpagendarts/wp-content/uploads/2018/10/mouettecfdb.jpg?w=300" alt="Mouette&amp;Cfdb" width="300" height="200" srcset="http://localhost/wpagendarts/wp-content/uploads/2018/10/mouettecfdb.jpg 1024w, http://localhost/wpagendarts/wp-content/uploads/2018/10/mouettecfdb-300x200.jpg 300w, http://localhost/wpagendarts/wp-content/uploads/2018/10/mouettecfdb-768x512.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" />
+
+
 
 Vendredi 8, samedi 9 à 20h, dimanche 10 février à 18h  
 **Mouettes & Chansons** (Théâtre musical)**  
 ** 8/13€**  
 ** 
 
-&nbsp;
+
 
 Création 2018 les fous de bassan ! (Beaugency)  
 Chansons de divers auteurs/compositeurs  

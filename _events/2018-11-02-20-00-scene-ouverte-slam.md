@@ -3,9 +3,11 @@ layout: event
 title:  "Scène ouverte slam"
 date:   2018-11-02 20:00:00 +0200
 month: novembre-2018
+image: 1918-marco-dsl-lun-02152010-1615.jpg
 ---
-<img class="alignleft size-thumbnail wp-image-5203" src="https://agendarts.files.wordpress.com/2018/07/1918-marco-dsl-lun-02152010-1615.jpg?w=150" alt="1918-marco-dsl-lun-02152010-1615" width="150" height="150" />Vendredi 2  (ouverture à 19h30: buffet offert puis démarrage à 20h)
 
+
+Vendredi 2  (ouverture à 19h30: buffet offert puis démarrage à 20h)
 **Scène ouverte slam**
 
 Organisé par le collectif « La Déchirature » animé par Marco DSL

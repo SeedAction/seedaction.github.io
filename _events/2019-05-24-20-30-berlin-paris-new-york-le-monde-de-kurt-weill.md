@@ -3,9 +3,10 @@ layout: event
 title:  "Berlin, Paris, New-York - Le monde de Kurt Weill"
 date:   2019-05-24 20:30:00 +0200
 month: mai-2019
-image: /wp-content/uploads/2018/12/Weill-1.jpg
+image: Weill-1.jpg
 ---
-<img class=" size-thumbnail wp-image-5776 alignleft" src="http://localhost/wpagendarts/wp-content/uploads/2018/12/Weill-1.jpg?w=150" alt="Weill 1" width="150" height="150" srcset="http://localhost/wpagendarts/wp-content/uploads/2018/12/Weill-1.jpg 600w, http://localhost/wpagendarts/wp-content/uploads/2018/12/Weill-1-300x300.jpg 300w, http://localhost/wpagendarts/wp-content/uploads/2018/12/Weill-1-150x150.jpg 150w" sizes="(max-width: 150px) 100vw, 150px" />
+
+
 
 Mercredi 22, jeudi 23, vendredi 24 mai à 20h30
 

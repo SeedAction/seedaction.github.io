@@ -3,8 +3,12 @@ layout: event
 title:  "El Amraoui et Cortex Sumus + Le Hache"
 date:   2018-11-04 20:00:00 +0200
 month: novembre-2018
+image: le-hache-el-amraoui.jpg
+image2: hache.jpg
 ---
-<img class="alignnone size-full wp-image-5428" src="https://agendarts.files.wordpress.com/2018/09/le-hache-el-amraoui.jpg" alt="le hache + el amraoui" width="309" height="293" /><img class="alignnone  wp-image-5375" src="http://localhost/wpagendarts/wp-content/uploads/2018/09/hache.jpg?w=300" alt="hache" width="293" height="293" srcset="http://localhost/wpagendarts/wp-content/uploads/2018/09/hache.jpg 1080w, http://localhost/wpagendarts/wp-content/uploads/2018/09/hache-300x300.jpg 300w, http://localhost/wpagendarts/wp-content/uploads/2018/09/hache-1024x1024.jpg 1024w, http://localhost/wpagendarts/wp-content/uploads/2018/09/hache-150x150.jpg 150w, http://localhost/wpagendarts/wp-content/uploads/2018/09/hache-768x768.jpg 768w" sizes="(max-width: 293px) 100vw, 293px" />
+
+
+
 
 Dimanche 4 à 18h
 

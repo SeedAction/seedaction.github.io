@@ -41,6 +41,8 @@ defaults:
     values:
       layout: "month"
 
+# exclude:
+#   - _events/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

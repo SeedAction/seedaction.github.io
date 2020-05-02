@@ -3,20 +3,22 @@ layout: event
 title:  "Steve Normandin et Hélène Piris en 1ère partie"
 date:   2019-09-28 20:00:00 +0200
 month: septembre-2019
+image: ste_8531-1-scaled.jpg
 ---
-<span style="font-weight:400;"><img class=" size-thumbnail wp-image-6663 alignleft" src="http://localhost/wpagendarts/wp-content/uploads/2019/06/ste_8531-1.jpg?w=150" alt="STE_8531 (1)" width="150" height="150" /><br /> Samedi 28 septembre à 20h, dimanche 29 à 18h<br /> </span>**Steve Normandin  
-** **Hélène Piris en 1ère partie  
-** <span style="font-weight:400;">5/10€</span>
 
-<span style="font-weight:400;">Le pianiste et accordéoniste québécois Steve Normandin chante, </span><span style="font-weight:400;">raconte et dévoile plusieurs des facettes musicales de son pays natal. </span><span style="font-weight:400;">Découvrez avec lui les grands moments de la chanson québécoise, </span><span style="font-weight:400;">croisant quelquefois le répertoire de la musique traditionnelle et ses </span><span style="font-weight:400;">compositions originales. </span><span style="font-weight:400;">Parmi les auteurs que Steve Normandin aime interpréter : La Bolduc, </span><span style="font-weight:400;">Félix Leclerc, Gilles Vigneault, Jacques Blanchet, Georges Dor, Sylvain </span><span style="font-weight:400;">Lelièvre, Raymond Lévesque et Robert Charlebois... </span><span style="font-weight:400;">Bon voyage dans la Belle Province!</span>
+
+<br /> Samedi 28 septembre à 20h, dimanche 29 à 18h<br /> **Steve Normandin  ** **Hélène Piris en 1ère partie  
+** 5/10€
+
+Le pianiste et accordéoniste québécois Steve Normandin chante, raconte et dévoile plusieurs des facettes musicales de son pays natal. Découvrez avec lui les grands moments de la chanson québécoise, croisant quelquefois le répertoire de la musique traditionnelle et ses compositions originales. Parmi les auteurs que Steve Normandin aime interpréter : La Bolduc, Félix Leclerc, Gilles Vigneault, Jacques Blanchet, Georges Dor, Sylvain Lelièvre, Raymond Lévesque et Robert Charlebois... Bon voyage dans la Belle Province!
 
 [Son site !](http://www.stevenormandin.com)
 
-&nbsp;
 
 
 
-&nbsp;
+
+
 
 **Hélène Piris** est une aventurière de la chanson française.  
 Mâtinées de musique du monde et de jazz, ses chansons explorent de nouveaux territoires avec pourtant cette évidence qui nous touche en plein cœur.  

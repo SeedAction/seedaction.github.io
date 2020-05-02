@@ -3,9 +3,11 @@ layout: event
 title:  "Co-plateau Anne-Lise Roche & Léonor Bolcatto"
 date:   2019-02-15 20:00:00 +0200
 month: février-2019
+image: coplateau-anne-lise-leonor.jpg
 ---
-<img class=" size-medium wp-image-5635 alignleft" src="https://agendarts.files.wordpress.com/2018/10/coplateau-anne-lise-leonor.jpg?w=300" alt="coplateau anne lise leonor" width="300" height="153" />Jeudi 14, Vendredi 15 à 20h -  
-5€  
+
+
+Jeudi 14, Vendredi 15 à 20h -  5€  
 **Co-plateau Anne-Lise Roche** et **Léonor Bolcatto**
 
 **Annelise Roche** vous invite à suspendre le temps dans son univers poétique et sensible. Sur le fil entre les mots et la musique, se tissent des histoires, des portraits : portraits d’une jeune femme, de souvenirs d’enfance, de rencontres fortuites. Portraits (non exhaustifs) des choses de la vie, les détails touchants, évidents… indispensables (!) Résonnant en chacun de nous.  

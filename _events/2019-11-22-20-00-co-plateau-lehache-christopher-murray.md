@@ -3,15 +3,17 @@ layout: event
 title:  "Co plateau leHache + Christopher Murray"
 date:   2019-11-22 20:00:00 +0200
 month: novembre-2019
+image: murraylehache-scaled.jpg
 ---
-<span style="font-weight:400;"><img class=" size-medium wp-image-6822 alignleft" src="http://localhost/wpagendarts/wp-content/uploads/2019/06/murraylehache.jpg?w=300" alt="murraylehache" width="300" height="150" /></span>
 
-<span style="font-weight:400;"><br /> </span><span style="font-weight:400;">Vendredi 22 novembre à 20h<br /> </span>**Co plateau leHache + Christopher Murray  
-** <span style="font-weight:400;">8/13€</span>
 
-&nbsp;
 
-<span style="font-weight:400;">Desperado hexagonal, <strong>LeHache</strong> a choisi la six-cordes et les mots plutôt que le six-coups et les balles pour bâtir sa légende.</span>
+<br /> Vendredi 22 novembre à 20h<br /> **Co plateau leHache + Christopher Murray  
+** 8/13€
+
+
+
+Desperado hexagonal, <strong>LeHache</strong> a choisi la six-cordes et les mots plutôt que le six-coups et les balles pour bâtir sa légende.
 
 
 

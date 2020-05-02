@@ -3,8 +3,10 @@ layout: event
 title:  "JET BLACK PEARL"
 date:   2019-10-02 20:00:00 +0200
 month: octobre-2019
+image: accordelyon.jpg
 ---
-<img class=" size-thumbnail wp-image-6063 alignleft" src="http://localhost/wpagendarts/wp-content/uploads/2019/02/accordelyon.jpg?w=150" alt="accordelyon" width="150" height="150" srcset="http://localhost/wpagendarts/wp-content/uploads/2019/02/accordelyon.jpg 500w, http://localhost/wpagendarts/wp-content/uploads/2019/02/accordelyon-300x300.jpg 300w, http://localhost/wpagendarts/wp-content/uploads/2019/02/accordelyon-150x150.jpg 150w" sizes="(max-width: 150px) 100vw, 150px" />
+
+
 
 Mercredi 2 octobre  
 Accordélyon  

@@ -3,9 +3,11 @@ layout: event
 title:  "Ursule et Madame chansons à baignoire"
 date:   2018-11-08 20:00:00 +0200
 month: novembre-2018
+image: ursule.jpg
 ---
-<img class="alignleft size-medium wp-image-5355" src="https://agendarts.files.wordpress.com/2018/09/ursule.jpg?w=300" alt="Ursule" width="300" height="300" />Jeudi 8 et vendredi 9 à 20h
 
+
+Jeudi 8 et vendredi 9 à 20h
 5€
 
 **Ursule et Madame** chansons à baignoire

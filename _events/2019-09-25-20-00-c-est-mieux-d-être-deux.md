@@ -3,11 +3,13 @@ layout: event
 title:  "C'est mieux d'être deux"
 date:   2019-09-25 20:00:00 +0200
 month: septembre-2019
+image: maud.jpg
 ---
 * * *
 
-<img class=" size-thumbnail wp-image-6659 alignleft" src="http://localhost/wpagendarts/wp-content/uploads/2019/06/maud.jpg?w=150" alt="maud" width="150" height="150" srcset="http://localhost/wpagendarts/wp-content/uploads/2019/06/maud.jpg 800w, http://localhost/wpagendarts/wp-content/uploads/2019/06/maud-300x300.jpg 300w, http://localhost/wpagendarts/wp-content/uploads/2019/06/maud-150x150.jpg 150w, http://localhost/wpagendarts/wp-content/uploads/2019/06/maud-768x768.jpg 768w" sizes="(max-width: 150px) 100vw, 150px" />  
-Mercredi 25, jeudi 26 septembre à 20h  
+
+
+  Mercredi 25, jeudi 26 septembre à 20h  
 C'est mieux d'être deux par le Collectif d'êtr'Acteur clown  
 5/10€
 

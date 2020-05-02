@@ -3,9 +3,11 @@ layout: event
 title:  "Scène ouverte slam"
 date:   2019-02-01 20:00:00 +0200
 month: février-2019
+image: 1918-marco-dsl-lun-02152010-16151.jpg
 ---
-<img class=" size-full wp-image-5618 alignleft" src="http://localhost/wpagendarts/wp-content/uploads/2018/10/1918-marco-dsl-lun-02152010-16151.jpg" alt="1918-marco-dsl-lun-02152010-1615" width="150" height="150" />  
-Vendredi 1er janvier à 20h  
+
+
+  Vendredi 1er janvier à 20h  
 **Scène ouverte slam  
 ** Prix libre  
 (ouverture à 19h30: buffet offert puis démarrage à 20h)  

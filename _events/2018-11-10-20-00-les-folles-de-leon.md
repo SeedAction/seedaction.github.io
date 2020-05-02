@@ -3,20 +3,22 @@ layout: event
 title:  "Les folles de Léon"
 date:   2018-11-10 20:00:00 +0200
 month: novembre-2018
+image: sans-titre.png
 ---
-<img class=" size-medium wp-image-5359 alignleft" src="https://agendarts.files.wordpress.com/2018/09/sans-titre.png?w=300" alt="Sans titre" width="300" height="300" />Samedi 10 à 20h, dimanche 11 à 18h
 
+
+Samedi 10 à 20h, dimanche 11 à 18h
 5€
 
 **Les Folles de Léon**
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
+
+
+
+
 
 C'est deux voix et un accordéon,  
 C'est deux filles et leur Léon.  

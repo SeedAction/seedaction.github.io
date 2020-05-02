@@ -3,17 +3,19 @@ layout: event
 title:  "Pour la beauté du guest (Carte blanche à Mehdi Kruger)"
 date:   2019-01-17 20:00:00 +0200
 month: janvier-2019
+image: medhi.jpg
 ---
-<img class=" size-full wp-image-5559 alignleft" src="http://localhost/wpagendarts/wp-content/uploads/2018/10/medhi.jpg" alt="medhi" width="225" height="225" srcset="http://localhost/wpagendarts/wp-content/uploads/2018/10/medhi.jpg 225w, http://localhost/wpagendarts/wp-content/uploads/2018/10/medhi-150x150.jpg 150w" sizes="(max-width: 225px) 100vw, 225px" />  
-Jeudi 17, vendredi 18, samedi 19, dimanche 20 à 18h  
+
+
+  Jeudi 17, vendredi 18, samedi 19, dimanche 20 à 18h  
 **Pour la beauté du gues  
 ** **(Carte blanche à Mehdi Kruger )  
 ** (Slam)**  
 8€******
 
-&nbsp;
 
-&nbsp;
+
+
 
 «Agend’Arts me fait crédit d’une carte blanche.  
 Et avec les cartes comme en musique : on joue mieux à plusieurs.  
@@ -33,17 +35,17 @@ Concert avec Ostax et invités : Melba, Cleim Haring et Slamouraï
 
 [youtube https://www.youtube.com/watch?v=c2ZkgqfjU_0&w=729&h=410]
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
 
-&nbsp;
+
+
+
+
+
+
 
 
 

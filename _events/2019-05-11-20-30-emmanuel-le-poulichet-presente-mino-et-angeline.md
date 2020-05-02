@@ -3,9 +3,13 @@ layout: event
 title:  "Emmanuel Le Poulichet présente Mino et Angéline"
 date:   2019-05-11 20:30:00 +0200
 month: mai-2019
+image: le-poulichet.png
+image2: angéline-150x150.jpg
+image3: minook-150x150.jpg
 ---
-Samedi 11 à 20h30<img class=" size-medium wp-image-5566 alignleft" src="http://localhost/wpagendarts/wp-content/uploads/2018/10/le-poulichet.png?w=300" alt="le poulichet" width="300" height="262" srcset="http://localhost/wpagendarts/wp-content/uploads/2018/10/le-poulichet.png 735w, http://localhost/wpagendarts/wp-content/uploads/2018/10/le-poulichet-300x262.png 300w" sizes="(max-width: 300px) 100vw, 300px" />  
-**Emmanuel Le Poulichet présente :  
+
+Samedi 11 à 20h30
+  **Emmanuel Le Poulichet présente :  
 Mina et Angéline  
 ** 5/10€
 
@@ -13,16 +17,18 @@ Mina et Angéline
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://localhost/wpagendarts/index.php/2018/12/10/samedi-11-mars-a-20h-eleves-demmanuel-le-poulichet/angeline/'><img width="150" height="150" src="http://localhost/wpagendarts/wp-content/uploads/2019/01/angéline-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-  </div></figure><figure class='gallery-item'> 
+
+    <a href='http://localhost/wpagendarts/index.php/2018/12/10/samedi-11-mars-a-20h-eleves-demmanuel-le-poulichet/angeline/'>
+</a>  </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://localhost/wpagendarts/index.php/2018/12/10/samedi-11-mars-a-20h-eleves-demmanuel-le-poulichet/minook/'><img width="150" height="150" src="http://localhost/wpagendarts/wp-content/uploads/2019/01/minook-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-  </div></figure>
+
+    <a href='http://localhost/wpagendarts/index.php/2018/12/10/samedi-11-mars-a-20h-eleves-demmanuel-le-poulichet/minook/'>
+</a>  </div></figure>
 </div>
 
-&nbsp;
 
-**Mino** <span style="font-weight:400;">a puisé ses coups de cœur dans le répertoire français et nous propose son tour de chant : « Couleurs </span><span style="font-weight:400;">d’Orange » ... une palette de mots et de notes qu’elle nous offre sans réserve et avec beaucoup de </span><span style="font-weight:400;">passion...</span>
 
-**Angéline** <span style="font-weight:400;">saisit au vol ce qui lui passe sous la plume et en fait des chansons ...</span><span style="font-weight:400;">On y croise des personnages, tantôt sages, tantôt déglingués; </span><span style="font-weight:400;">On y reçoit des coups de gueule, des coups de cœur. </span><span style="font-weight:400;">Quand sa chandelle s’allume, pour l’amour des mots, </span><span style="font-weight:400;">c’est pour nous adresser des brins d’histoires, d’images, de confidences... </span><span style="font-weight:400;">Alors chut... place aux chansons. </span><span style="font-weight:400;">Ces deux chanteuses sont accompagnées au piano par Emmanuel Le Poulichet</span>
+**Mino** a puisé ses coups de cœur dans le répertoire français et nous propose son tour de chant : « Couleurs d’Orange » ... une palette de mots et de notes qu’elle nous offre sans réserve et avec beaucoup de passion...
+
+**Angéline** saisit au vol ce qui lui passe sous la plume et en fait des chansons ...On y croise des personnages, tantôt sages, tantôt déglingués; On y reçoit des coups de gueule, des coups de cœur. Quand sa chandelle s’allume, pour l’amour des mots, c’est pour nous adresser des brins d’histoires, d’images, de confidences... Alors chut... place aux chansons. Ces deux chanteuses sont accompagnées au piano par Emmanuel Le Poulichet

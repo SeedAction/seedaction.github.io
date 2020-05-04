@@ -41,6 +41,9 @@ defaults:
     values:
       layout: "month"
 
+keep_files:
+  [assets/img/]
+
 # exclude:
 #   - _events/
 

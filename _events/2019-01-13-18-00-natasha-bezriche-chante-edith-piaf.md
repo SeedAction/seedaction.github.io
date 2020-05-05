@@ -3,7 +3,7 @@ layout: event
 title:  "Natasha Bezriche chante Edith Piaf"
 date:   2019-01-13 18:00:00 +0200
 month: janvier-2019
-image: affiche-piaf-voix-pas-chant.jpg
+image: affiche-piaf-voix-pas-chant-scaled.jpg
 ---
 
 

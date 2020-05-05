@@ -3,7 +3,6 @@ layout: event
 title:  "Les folles de Léon"
 date:   2018-11-10 20:00:00 +0200
 month: novembre-2018
-image: sans-titre.png
 ---
 
 

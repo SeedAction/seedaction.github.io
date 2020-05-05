@@ -3,7 +3,7 @@ layout: event
 title:  "Mino et Angéline + Emmanuel Le Poulichet"
 date:   2019-05-11 20:30:00 +0200
 month: mai-2019
-image: minook-150x150.jpg
+image: minook.jpg
 image2: angéline-150x150.jpg
 ---
 <div id='gallery-6' class='gallery galleryid-6257 gallery-columns-3 gallery-size-thumbnail'>

@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Lucile / Claire Days "
 date:   2019-05-30 20:30:00 +0200
 month: mai-2019
-image: recto-150x150.jpg
+image: recto-scaled.jpg
 image2: marie-days-150x150.jpg
 ---
 <div id='gallery-8' class='gallery galleryid-6282 gallery-columns-3 gallery-size-thumbnail'>

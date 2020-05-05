@@ -3,7 +3,6 @@ layout: event
 title:  "Portraits de voix"
 date:   2019-02-17 18:00:00 +0200
 month: février-2019
-image: portrait_de_voix.jpg
 ---
 
 

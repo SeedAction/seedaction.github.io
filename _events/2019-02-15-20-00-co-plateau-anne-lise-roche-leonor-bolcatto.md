@@ -3,7 +3,7 @@ layout: event
 title:  "Co-plateau Anne-Lise Roche & Léonor Bolcatto"
 date:   2019-02-15 20:00:00 +0200
 month: février-2019
-image: coplateau-anne-lise-leonor.jpg
+image: annelise.jpg
 ---
 
 

@@ -3,7 +3,6 @@ layout: event
 title:  "Halloween Gallway"
 date:   2018-10-31 20:00:00 +0200
 month: octobre-2018
-image: hallo.jpg
 ---
 
 <b>

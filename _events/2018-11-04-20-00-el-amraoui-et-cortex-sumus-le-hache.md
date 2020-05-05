@@ -3,8 +3,7 @@ layout: event
 title:  "El Amraoui et Cortex Sumus + Le Hache"
 date:   2018-11-04 20:00:00 +0200
 month: novembre-2018
-image: le-hache-el-amraoui.jpg
-image2: hache.jpg
+image: hache.jpg
 ---
 
 

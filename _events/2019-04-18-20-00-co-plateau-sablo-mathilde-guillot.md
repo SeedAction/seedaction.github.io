@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Sablo / Mathilde Guillot"
 date:   2019-04-18 20:00:00 +0200
 month: avril-2019
-image: mathilde-150x150.jpg
+image: mathilde.jpg
 image2: sablo-150x150.jpg
 ---
 <div id='gallery-4' class='gallery galleryid-6036 gallery-columns-3 gallery-size-thumbnail'>

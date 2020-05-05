@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Eric Simonet / Fred Viviani"
 date:   2019-05-12 18:00:00 +0200
 month: mai-2019
-image: viviani-150x150.jpg
+image: viviani.jpg
 image2: simonet-150x150.jpg
 ---
 <div id='gallery-7' class='gallery galleryid-6259 gallery-columns-3 gallery-size-thumbnail'>

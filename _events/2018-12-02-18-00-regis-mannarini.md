@@ -3,7 +3,6 @@ layout: event
 title:  "Régis Mannarini"
 date:   2018-12-02 18:00:00 +0200
 month: décembre-2018
-image: manarini-jpeg.jpg
 ---
 
 

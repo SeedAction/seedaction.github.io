@@ -3,7 +3,7 @@ layout: event
 title:  "Zambragkis / Parreira"
 date:   2019-02-27 20:00:00 +0200
 month: février-2019
-image: 45336147_266402070725873_1970299273329246208_n.jpg
+image: accordelyon.jpg
 ---
 
 

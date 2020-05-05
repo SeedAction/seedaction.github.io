@@ -3,7 +3,7 @@ layout: event
 title:  "Conférence de presque par la Cie les bisons ravis"
 date:   2018-11-24 20:00:00 +0200
 month: novembre-2018
-image: bisons-conference.jpg
+image: bisons-conference-scaled.jpg
 ---
 
 

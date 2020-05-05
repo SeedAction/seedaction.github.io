@@ -3,7 +3,7 @@ layout: event
 title:  "Scène ouverte slam"
 date:   2019-02-01 20:00:00 +0200
 month: février-2019
-image: 1918-marco-dsl-lun-02152010-16151.jpg
+image: 1918-marco-dsl-lun-02152010-16150.jpg
 ---
 
 

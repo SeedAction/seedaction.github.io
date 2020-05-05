@@ -3,7 +3,7 @@ layout: event
 title:  "Quizz poétique"
 date:   2019-02-21 20:00:00 +0200
 month: février-2019
-image: quiz400.jpg
+image: quizz.jpg
 ---
 
 

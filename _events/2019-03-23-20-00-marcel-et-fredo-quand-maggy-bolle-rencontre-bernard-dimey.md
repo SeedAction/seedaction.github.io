@@ -3,7 +3,7 @@ layout: event
 title:  "Marcel et Fredo (Quand Maggy Bolle rencontre Bernard Dimey)"
 date:   2019-03-23 20:00:00 +0200
 month: mars-2019
-image: fredo.jpg
+image: fredo-scaled.jpg
 ---
 
 

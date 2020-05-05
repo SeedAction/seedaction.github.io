@@ -3,8 +3,7 @@ layout: event
 title:  "Bernard Defond + Priscilla Horviller + Guillaume Lloret"
 date:   2019-01-24 20:00:00 +0200
 month: janvier-2019
-image: img_2115-copie1.jpg
-image2: moi13.jpg
+image: moi13.jpg
 ---
 
 

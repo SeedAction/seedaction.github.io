@@ -25,7 +25,7 @@ image2: lgmanc3ab.jpg
 [Sa page facebook](https://www.facebook.com/blanmarina/)
 
 <div>
-  <b>Igmanë </b>est une traversée musicale qui vous embarque aux confins du désert, des forêts et des océans. Une voix cuivrée navigue polyglotte sur des rythmes entraînants, des couleurs de chants traditionnels où les mots accrochés au corps se balancent au gré des paysages intérieurs. La poésie d’Emily Dickinson. Une innocence et une force où l’émerveillement des petites choses maintient en haleine.
+  Igmanë </b>est une traversée musicale qui vous embarque aux confins du désert, des forêts et des océans. Une voix cuivrée navigue polyglotte sur des rythmes entraînants, des couleurs de chants traditionnels où les mots accrochés au corps se balancent au gré des paysages intérieurs. La poésie d’Emily Dickinson. Une innocence et une force où l’émerveillement des petites choses maintient en haleine.
 </div>
 
 <div>

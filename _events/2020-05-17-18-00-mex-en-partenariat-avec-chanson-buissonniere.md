@@ -7,13 +7,12 @@ tarif: 5€
 image: enm.jpg
 ---
 
-**
-**
-Dimanche 17 mai à 18h  
-**Mex (En partenariat avec chanson Buissonnière)  
-** 5/10€
+Mex donne vie à des scènes et des personnages pour interpeller, émouvoir, chatouiller... Ses chansons aux couleurs changeantes dessinent un portrait de nos conditions humaines. 
 
-<br /> Mex donne vie à des scènes et des personnages pour interpeller, émouvoir,<br /> chatouiller... Ses chansons aux couleurs changeantes dessinent un portrait de<br /> nos conditions humaines.<br /> Mathieu Foulu-Mion : guitare folk / guitare électrique / chant<br /> Marie Pouvesle : Violoncelle / chœursMise en scène : Alfred Spirli
+Mathieu Foulu-Mion : guitare folk / guitare électrique / chant 
+Marie Pouvesle : violoncelle / choeurs
+
+Mise en scène : Alfred Spirli
 
 
 

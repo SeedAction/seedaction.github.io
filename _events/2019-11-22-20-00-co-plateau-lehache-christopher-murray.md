@@ -8,12 +8,16 @@ image: murraylehache-scaled.jpg
 
 
 
-<br /> Vendredi 22 novembre à 20h<br /> **Co plateau leHache + Christopher Murray  
+
+
+ Vendredi 22 novembre à 20h
+
+ **Co plateau leHache + Christopher Murray  
 ** 8/13€
 
 
 
-Desperado hexagonal, <strong>LeHache</strong> a choisi la six-cordes et les mots plutôt que le six-coups et les balles pour bâtir sa légende.
+Desperado hexagonal, LeHache a choisi la six-cordes et les mots plutôt que le six-coups et les balles pour bâtir sa légende.
 
 
 

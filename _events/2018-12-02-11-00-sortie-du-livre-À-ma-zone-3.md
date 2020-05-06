@@ -8,7 +8,9 @@ image: claudine-lebegue.jpg
 
 
 
-Dimanche 2 à 11h - Gratuit<br /> **Claudine Lebègue  
+Dimanche 2 à 11h - Gratuit
+
+ **Claudine Lebègue  
 ** Brunch-signature-animée.
 
 

@@ -6,9 +6,13 @@ month: octobre-2019
 image: slamourai.jpg
 ---
 
-<b>
+
 </b>
-<br /> Mercredi 16, jeudi 17 octobre à 20h<br /> **Slamourai + Hugo Duvillard  
+
+
+ Mercredi 16, jeudi 17 octobre à 20h
+
+ **Slamourai + Hugo Duvillard  
 ** 5/10€
 
 

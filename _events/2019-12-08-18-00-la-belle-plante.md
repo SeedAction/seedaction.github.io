@@ -13,7 +13,17 @@ image: labelleplante-scaled.jpg
 5/10€  
 ** 
 
-<br /> Composition ecriture voix Isabelle RIAS /Basse : Ash /Accordéon : Nicolas Ortiz<br /> La bElle PlAnte…Ce sont des chansons à mordre et à  caresser… C’est une chanteuse mi clown mi oiseau qui chante sur un fil accompagnée par un bassiste funambule et un accordéoniste acrobate.<br /> La bElle plAnte… Ce sont des textes à rire et à pleurer. Ce sont des souvenirs  et des interrogations au creux de l’oreille… C’est un dérapage entre plusieurs émotions, un toboggan vers l’inconnu… Une mélodie qui parle d’elle, de lui…de vous.<br /> [www.labelleplante.net](http://www.labelleplante.net/)<br /> 
+
+
+ Composition ecriture voix Isabelle RIAS /Basse : Ash /Accordéon : Nicolas Ortiz
+
+ La bElle PlAnte…Ce sont des chansons à mordre et à  caresser… C’est une chanteuse mi clown mi oiseau qui chante sur un fil accompagnée par un bassiste funambule et un accordéoniste acrobate.
+
+ La bElle plAnte… Ce sont des textes à rire et à pleurer. Ce sont des souvenirs  et des interrogations au creux de l’oreille… C’est un dérapage entre plusieurs émotions, un toboggan vers l’inconnu… Une mélodie qui parle d’elle, de lui…de vous.
+
+ [www.labelleplante.net](http://www.labelleplante.net/)
+
+ 
 
 <a href="https://www.facebook.com/labelleplante/" target="_blank" rel="noopener noreferrer">Notre page Facebook</a>
 

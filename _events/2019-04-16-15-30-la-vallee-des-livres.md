@@ -22,4 +22,4 @@ CIE Les lucarne songeuses
 
 Trois contes dont les personnages principaux, enfants intrépides et curieux, réalisent leur quête grâce à leur générosité et leur imagination. Une plongée dans l'univers onirique et subtil du théâtre d'ombres, accompagnée de créations musicales.
 
-Avec <strong>Laurine Arcel, Céline Treuttel</strong> et <strong>Delphine Dupré.</strong> 
+Avec Laurine Arcel, Céline Treuttel et Delphine Dupré. 

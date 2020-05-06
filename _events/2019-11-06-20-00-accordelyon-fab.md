@@ -18,7 +18,7 @@ image: fab-polaroicc88d-ingrid.jpg
 5/10€
 
 <div dir="ltr">
-  <strong>FAB </strong>
+  FAB 
 </div>
 
 <div dir="ltr">

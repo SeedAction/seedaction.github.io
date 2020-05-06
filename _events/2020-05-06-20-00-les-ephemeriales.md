@@ -7,10 +7,4 @@ tarif: 5€
 image: ephemeriales.jpg
 ---
 
-**
-  Mercredi 6 mai à 20h30  
-** **Les éphémeriales  
-** **Impro le Groupe  
-** 5/10€<br /> 
-
 Le Groupe invite des troupes Lyonnaises et Stéphanoises pour leur lancer un challenge : créer un spectacle d'impro en 24h selon une contrainte de thème et de mise en scène. Chaque soir vous retrouverez sur scène deux spectacles inédits de 30 minutes. Intensité et créativité se retrouverons sur scène.

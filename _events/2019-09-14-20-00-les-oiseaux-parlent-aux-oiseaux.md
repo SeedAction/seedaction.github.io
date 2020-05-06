@@ -7,7 +7,11 @@ image: les-oiseaux.jpg
 ---
 
 
-<br /> Samedi 14 septembre à 20h<br /> **Les oiseaux parlent aux oiseaux par la CIE La belle étoile  ** 5/10€
+
+
+ Samedi 14 septembre à 20h
+
+ **Les oiseaux parlent aux oiseaux par la CIE La belle étoile  ** 5/10€
 
 « Les Oiseaux parlent aux Oiseaux » est une lecture évoquant la Résistance pendant la deuxième guerre mondiale et plus largement, le combat de ceux qui se battent pour préserver ou conquérir une liberté. Des chansons et poèmes accompagnés au ukulélé et au carillon ou _a cappella_ à deux voix sont présents tout au long du spectacle, et l’image de l’oiseau lie l’ensemble des textes. Textes de Jean Moulin, Yoko Ogawa, Victor Hugo, Romain Gary, Elsa Osorio, Panaït Istrati etc. Avec Elise Moussion et FAnélie Danger
 

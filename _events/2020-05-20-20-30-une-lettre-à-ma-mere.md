@@ -8,22 +8,10 @@ image: une-lettre-c3a0-ma-mc3a8re.jpg
 image2: une-lettre-c3a0-ma-mc3a8re.jpg
 ---
 
-**
+« Une lettre à ma mère » est un concert/spectacle autobiographique franco-russe. C'est avec beaucoup d'amour que Margarita écrit une lettre à sa mère. On se laisse emporter dans ses histoires qui nous parlent de sentiments, d'imagination et parfois même de l'administration française ! L'univers est poétique, drôle et touchant. Le regard affuté d'une âme slave parachutée à Lyon.
 
-
-****Une lettre à ma mère  
-** **Mercredi 20 mai à 20h30  
-** 5/10€
-
-<p align="JUSTIFY">
-  « Une lettre à ma mère » est un concert/spectacle autobiographique franco-russe. C'est avec beaucoup d'amour que Margarita écrit une lettre à sa mère. On se laisse emporter dans ses histoires qui nous parlent de sentiments, d'imagination et parfois même de l'administration française ! L'univers est poétique, drôle et touchant. Le regard affuté d'une âme slave parachutée à Lyon.
-</p>
-
-<p align="JUSTIFY">
-  Chant :<strong> Margarita Baranova</strong>, piano : <strong>Carine Bianco</strong>
-</p>
-
-
+Chant : Margarita Baranova
+Piano : Carine Bianco
 
 
 

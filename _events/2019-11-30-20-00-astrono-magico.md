@@ -8,7 +8,11 @@ image: flodjo.jpg
 
 
 
-Samedi 30 à 20h, dimanche 1er décembre à 18h<br /> **Astrono-Magico**   conférence spectacle<br /> 5/10€
+Samedi 30 à 20h, dimanche 1er décembre à 18h
+
+ **Astrono-Magico**   conférence spectacle
+
+ 5/10€
 
 Si la magie du ciel vous émerveille alors ce show est fait pour vous : Astrono-Mágico est un spectacle créé en 2011 par l'astrophysicien et magicien Florian Gourgeot (Flodjo). Il s'agit d'une conférence d'astronomie avec des tours de magie permettant de conter la beauté du cosmos de manière poétique, ludique et pédagogique. Embarquez pour un tour d'horizon à travers le système solaire, les étoiles ou les galaxies. Venez donc cueillir les mystères de l'Univers tout en défiant les lois de la physique par le rêve et l'illusion. 
 

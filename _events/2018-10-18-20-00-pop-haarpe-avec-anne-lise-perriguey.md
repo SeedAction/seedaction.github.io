@@ -7,5 +7,9 @@ image: pop-harpe.jpg
 ---
 
 
-<b><br /> “Pop’hAArpe”</b> avec Anne-Lise Perriguey<br /> Jeudi 18 et vendredi 19 à 20h  5€
+
+
+ “Pop’hAArpe”</b> avec Anne-Lise Perriguey
+
+ Jeudi 18 et vendredi 19 à 20h  5€
 « C'est l'alliance de la harpe, instrument classique par excellence ,de sonorités résolument contemporaines, Pop Rock, électro, et d'une ou plusieurs voix... des reprises telles que Queen, Lana del Rey, Led Zeppelin, Agnes Obel ou encore Jain revues à la sauce Pop'hAArpe, mais aussi des compositions originales... « 

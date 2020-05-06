@@ -7,7 +7,11 @@ image: paul-scaled.jpg
 ---
 
 
-<br /> Vendredi 27 septembre à 20h<br /> **Christien Paul  ** 8/13€
+
+
+ Vendredi 27 septembre à 20h
+
+ **Christien Paul  ** 8/13€
 
 Le chanteur canadien Christien Paul accompagné de musiciens français vous présente un concert pop / folk de chansons françaises au ukulélé et au piano ainsi qu’un set de chansons anglophone à la guitare. 
 

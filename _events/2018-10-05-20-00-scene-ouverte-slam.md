@@ -7,7 +7,11 @@ image: 1918-marco-dsl-lun-02152010-1615.jpg
 ---
 
 
-<b><br /> Scène ouverte slam</b><br /> vendredi 5  (ouverture à 19h30: buffet offert puis démarrage à 20h) 
+
+
+ Scène ouverte slam</b>
+
+ vendredi 5  (ouverture à 19h30: buffet offert puis démarrage à 20h) 
 Organisé par La déchirature
 
 Prix libre

@@ -16,9 +16,11 @@ Soirée découverte en partenariat avec l’ENM de Villeurbanne : à la rencontr
 
 Au programme : Cours d’interprétation d’Anne Fromm et Joël Clément : Piano / Voix
 
-  * <strong>Louise Combier</strong> et <strong>Loreleï Mallet</strong> : duo Piano / Voix<br /> 
-  * <pre class="m_8014780273833515713m_3616921875651793997moz-quote-pre"><strong>Lucile Sauverzac</strong> et<strong> Marie Michard Léal</strong> : duo Clavier / Machines / 2 Voix  </pre>
+  * Louise Combier et Loreleï Mallet : duo Piano / Voix
 
-  * <pre class="m_8014780273833515713m_3616921875651793997moz-quote-pre"><b>Melissa Nefeli Trio</b> : trio Guitare / Percussions / Voix Lead </pre>
+ 
+  * <pre class="m_8014780273833515713m_3616921875651793997moz-quote-pre">Lucile Sauverzac et Marie Michard Léal : duo Clavier / Machines / 2 Voix  </pre>
 
-  * <pre class="m_8014780273833515713m_3616921875651793997moz-quote-pre"><strong>Pandore</strong> (Guillaume Payet) : solo Guitare / Piano / Voix </pre>
+  * <pre class="m_8014780273833515713m_3616921875651793997moz-quote-pre">Melissa Nefeli Trio</b> : trio Guitare / Percussions / Voix Lead </pre>
+
+  * <pre class="m_8014780273833515713m_3616921875651793997moz-quote-pre">Pandore (Guillaume Payet) : solo Guitare / Piano / Voix </pre>

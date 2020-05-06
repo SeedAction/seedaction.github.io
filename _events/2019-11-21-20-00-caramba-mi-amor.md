@@ -8,7 +8,11 @@ image: manue-cuatro_chants-copie-2-1-1.jpg
 
 
 
-<br /> Mercredi 20, jeudi 21 novembre à 20h<br /> **Caramba mi amor  
+
+
+ Mercredi 20, jeudi 21 novembre à 20h
+
+ **Caramba mi amor  
 ** 5/10€
 
 

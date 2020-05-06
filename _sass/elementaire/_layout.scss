@@ -369,13 +369,13 @@
   }
 
   &__content {
-    & p {
-      display: flex;
-      flex-flow: row wrap;
-      justify-content: space-evenly;
-      align-items: center;
-      row-gap: 1.2em;
-    }
+    // & p {
+    //   display: flex;
+    //   flex-flow: row wrap;
+    //   justify-content: space-evenly;
+    //   align-items: center;
+    //   row-gap: 1.2em;
+    // }
     & img {
       min-width: 0;
       min-height: 0;

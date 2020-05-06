@@ -7,7 +7,11 @@ image: jl-bergere.jpg
 ---
 
 
-<br /> Samedi 7 à 20h, dimanche 8 septembre à 18h<br /> **Carte blanche à Jean Louis Bergère  ** 5/10€
+
+
+ Samedi 7 à 20h, dimanche 8 septembre à 18h
+
+ **Carte blanche à Jean Louis Bergère  ** 5/10€
 
 <p align="justify">
   Auteur Compositeur (chansons, poésies et proses) Jean Louis Bergère partage son activité entre scène et écriture. « Entre textes d’une haute teneur poétique et géographies musicales soignées » (Fred Hidalgo), ce songwriter angevin à l’écriture lumineuse, à la voix chaude et touchante, dépeint à merveille les nuances de l’âme, les sentiments diffus, les paysages intérieurs. « C'est le sensible l'objet de Jean-Louis Bergère. Nommer l'invisible, faire exister ce qui n'est pas, le sentiment naissant, à l'instar d'une Nathalie Sarraute. Chercher, être en quête du soi intérieur. Gratter le dedans, le trouble et l'informulé et révéler l'indicible » (Hexagone). Un univers aussi fragile qu’intense. Pour un voyage entre lyrisme et contemplation. 
@@ -18,11 +22,11 @@ image: jl-bergere.jpg
 </p>
 
 <div class="m_9075865740706854525txt1" dir="ltr" align="justify">
-  <strong>Jean Louis Bergère</strong> / paroles et musiques, guitare, chant
+  Jean Louis Bergère / paroles et musiques, guitare, chant
 </div>
 
 <div dir="ltr" align="justify">
-  <strong>Evelyne Chauveau</strong> / chœur, synthétiseur, mélodica, percussions
+  Evelyne Chauveau / chœur, synthétiseur, mélodica, percussions
 </div>
 
 <div dir="ltr" align="justify">
@@ -37,27 +41,27 @@ image: jl-bergere.jpg
 </p>
 
 <p class="m_9075865740706854525txt1" align="justify">
-  <strong>Samedi soir :</strong>
+  Samedi soir :
 </p>
 
 <p class="m_9075865740706854525txt1" align="justify">
-  l'auteur et musicien <strong>Jean-Baptiste Cabaud </strong>(Lyon)<strong> </strong>- <a title="http://www.jeanbaptistecabaud.fr/ CTRL + Cliquez ici pour suivre le lien" href="http://www.jeanbaptistecabaud.fr/" target="_blank" rel="noopener noreferrer">http://www.jeanbaptistecabaud.fr/</a> 
+  l'auteur et musicien Jean-Baptiste Cabaud (Lyon) - <a title="http://www.jeanbaptistecabaud.fr/ CTRL + Cliquez ici pour suivre le lien" href="http://www.jeanbaptistecabaud.fr/" target="_blank" rel="noopener noreferrer">http://www.jeanbaptistecabaud.fr/</a> 
 </p>
 
 <p class="m_9075865740706854525txt1" align="justify">
-  la poète <strong>Samantha Barendson</strong> (Lyon) - <a title="http://www.samantha-barendson.com/ CTRL + Cliquez ici pour suivre le lien" href="http://www.samantha-barendson.com/" target="_blank" rel="noopener noreferrer">http://www.samantha-barendson.com/</a>
+  la poète Samantha Barendson (Lyon) - <a title="http://www.samantha-barendson.com/ CTRL + Cliquez ici pour suivre le lien" href="http://www.samantha-barendson.com/" target="_blank" rel="noopener noreferrer">http://www.samantha-barendson.com/</a>
 </p>
 
 <p class="m_9075865740706854525txt1" dir="ltr" align="justify">
-  <strong>Dimanche après-midi :</strong>
+  Dimanche après-midi :
 </p>
 
 <p class="m_9075865740706854525txt1" dir="ltr" align="justify">
-  le chanteur musicien J<strong>ulien Orso Jesenska </strong>(Marseille) - <a title="https://orsojesenska.bandcamp.com/ CTRL + Cliquez ici pour suivre le lien" href="https://orsojesenska.bandcamp.com/" target="_blank" rel="noopener noreferrer">https://orsojesenska.bandcamp.com/</a> 
+  le chanteur musicien Julien Orso Jesenska (Marseille) - <a title="https://orsojesenska.bandcamp.com/ CTRL + Cliquez ici pour suivre le lien" href="https://orsojesenska.bandcamp.com/" target="_blank" rel="noopener noreferrer">https://orsojesenska.bandcamp.com/</a> 
 </p>
 
 <p class="m_9075865740706854525txt1" dir="ltr" align="justify">
-  la poète <strong>Isabelle Damotte</strong> (Valence) - <a title="http://www.m-e-l.fr/isabelle-damotte,ec,923 CTRL + Cliquez ici pour suivre le lien" href="http://www.m-e-l.fr/isabelle-damotte,ec,923" target="_blank" rel="noopener noreferrer">http://www.m-e-l.fr/isabelle-damotte,ec,923</a>
+  la poète Isabelle Damotte (Valence) - <a title="http://www.m-e-l.fr/isabelle-damotte,ec,923 CTRL + Cliquez ici pour suivre le lien" href="http://www.m-e-l.fr/isabelle-damotte,ec,923" target="_blank" rel="noopener noreferrer">http://www.m-e-l.fr/isabelle-damotte,ec,923</a>
 </p>
 
 <div dir="ltr" align="justify">

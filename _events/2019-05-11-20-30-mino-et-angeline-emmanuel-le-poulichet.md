@@ -22,4 +22,6 @@ image2: angéline-150x150.jpg
 
 **Samedi 11 mai à 20h30****  
 ** **Mino et Angéline accompagnées par Emmanuel Le Poulichet****  
-** 5/10€<br /> Mino a puisé ses coups de cœur dans le répertoire français et nous propose son tour de chant : « Couleurs d’Orange » ... une palette de mots et de notes qu’elle nous offre sans réserve et avec beaucoup de passion... Angéline saisit au vol ce qui lui passe sous la plume et en fait des chansons ... On y croise des personnages, tantôt sages, tantôt déglingués; On y reçoit des coups de gueule, des coups de cœur. Quand sa chandelle s’allume, pour l’amour des mots, c’est pour nous adresser des brins d’histoires, d’images, de confidences… Alors chut... place aux chansons. Ces deux chanteuses sont accompagnées au piano par Emmanuel Le Poulichet.
+** 5/10€
+
+ Mino a puisé ses coups de cœur dans le répertoire français et nous propose son tour de chant : « Couleurs d’Orange » ... une palette de mots et de notes qu’elle nous offre sans réserve et avec beaucoup de passion... Angéline saisit au vol ce qui lui passe sous la plume et en fait des chansons ... On y croise des personnages, tantôt sages, tantôt déglingués; On y reçoit des coups de gueule, des coups de cœur. Quand sa chandelle s’allume, pour l’amour des mots, c’est pour nous adresser des brins d’histoires, d’images, de confidences… Alors chut... place aux chansons. Ces deux chanteuses sont accompagnées au piano par Emmanuel Le Poulichet.

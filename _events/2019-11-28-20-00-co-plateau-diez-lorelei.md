@@ -8,7 +8,11 @@ image: loreilidiez.jpg
 
 
 
-<br /> Jeudi 28, vendredi 29 novembre à 20h<br /> **Co plateau Diez + Lorelei  
+
+
+ Jeudi 28, vendredi 29 novembre à 20h
+
+ **Co plateau Diez + Lorelei  
 ** 5/10€
 
 **Diez : **Chansons douces, drôles ou empreintes de mélancolie, souvent féministes, parfois piquantes, toujours percutantes. Diez raconte son histoire, dans laquelle vous pourrez facilement vous reconnaître.

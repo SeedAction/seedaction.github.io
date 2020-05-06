@@ -24,7 +24,9 @@ image2: marie-days-150x150.jpg
 ** **Co plateau Lucile / Claire Days  
 ** 5/10€
 
-<b>Lucile<br /> </b>Seule sur scène mais bien entourée de sa guitare électrique et de ses boucles vocales qui s’empilent, Lucile partage ses émotions à travers des grooves dont elle a le secret. Ses sonorités rythmées rajeunissent la chanson française et vous enveloppent dans son univers singulier. Lucile se raconte avec un langage direct, des histoires et des ressentis du quotidien de sa génération. Attirée par le besoin de partage, les mots sont portés par sa voix chaleureuse, précise et ciselée qui vous frappe et vous touche sans détours.
+Lucile
+
+ </b>Seule sur scène mais bien entourée de sa guitare électrique et de ses boucles vocales qui s’empilent, Lucile partage ses émotions à travers des grooves dont elle a le secret. Ses sonorités rythmées rajeunissent la chanson française et vous enveloppent dans son univers singulier. Lucile se raconte avec un langage direct, des histoires et des ressentis du quotidien de sa génération. Attirée par le besoin de partage, les mots sont portés par sa voix chaleureuse, précise et ciselée qui vous frappe et vous touche sans détours.
 
 
 

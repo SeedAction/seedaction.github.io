@@ -7,21 +7,6 @@ tarif: 8€
 image: buffaud2.jpg
 ---
 
-**[
-](http://localhost/wpagendarts/wp-content/uploads/2017/10/buffaud2.jpg)**
-**Samedi 23 à 20h, dimanche 24 mai à 18h  
-** **François Buffaud  
-** 8/13€
-
-
-
-« J’ai l’impression que depuis toujours la musique vient sous mes doigts quand un frisson me parcourt, que les mots qui voudraient sortir de moi n’osent le faire que parce qu’ils sont chantés. Alors, sublimé par de merveilleux complices musiciens, la scène est pour moi le moment de partager les émotions, les plaisirs que l’on croise tous un jour.  Dans un éclat de vivre, j'y passe du rire aux larmes, des rêves à la réalité du quotidien, sans autre prétention que d’être juste humain. » François Buffaud accompagné par **Philippe Parant** à la guitare et  <strong>Sébastien Debard</strong> à l'accordéon.
+J’ai l’impression que depuis toujours la musique vient sous mes doigts quand un frisson me parcourt, que les mots qui voudraient sortir de moi n’osent le faire que parce qu’ils sont chantés. Alors, sublimé par de merveilleux complices musiciens, la scène est pour moi le moment de partager les émotions, les plaisirs que l’on croise tous un jour.  Dans un éclat de vivre, j'y passe du rire aux larmes, des rêves à la réalité du quotidien, sans autre prétention que d’être juste humain. » François Buffaud accompagné par Philippe Parant à la guitare et Sébastien Debard à l'accordéon.
 
 [Le site](http://www.francoisbuffaud.fr/)
-
-
-
-
-
-
-

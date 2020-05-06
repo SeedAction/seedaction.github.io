@@ -8,9 +8,17 @@ image: mounya-boudiaf-1.jpg
 
 
 
-<br /> Samedi 23 à 20h, dimanche 24 à 18h<br /> **Mounya Boudiaf  
+
+
+ Samedi 23 à 20h, dimanche 24 à 18h
+
+ **Mounya Boudiaf  
 ** 5/10€
 
 
 
-Chant oriental, inspiration jazz, textes sur l'espoir, l'amour, l'humain!<br /> Accompagné du oud, ney, <strong>Hassan Abd Alrahman</strong><br /> Musique sur ordinateur <strong>Jérôme Lecaillatel</strong>
+Chant oriental, inspiration jazz, textes sur l'espoir, l'amour, l'humain!
+
+ Accompagné du oud, ney, Hassan Abd Alrahman
+
+ Musique sur ordinateur Jérôme Lecaillatel

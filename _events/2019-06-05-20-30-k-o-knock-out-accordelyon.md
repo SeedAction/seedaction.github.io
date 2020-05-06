@@ -16,15 +16,35 @@ image: kolo.jpg
 
 
 <div>
-  K.O. | Knock Out.<br /> Incapable de reprendre le combat.<br /> Incapable de se défendre.<br /> K.O.Du chaos naît la clarté.<br /> Debout vers l'harmonie de toutes nos facettes.</p> 
+  K.O. | Knock Out.
+
+ Incapable de reprendre le combat.
+
+ Incapable de se défendre.
+
+ K.O.Du chaos naît la clarté.
+
+ Debout vers l'harmonie de toutes nos facettes.</p> 
   
   <p>
-    Et si la chute n'en était pas une?<br /> Et si sans K.O. c'était possible?<br /> Et si la décision était d'arrêter avant ?<br /> Et s'il n'y avait pas de lutte ?<br /> Et si le seul adversaire était nous-mêmes ?<br /> Et si vivre était plus simple?
+    Et si la chute n'en était pas une?
+
+ Et si sans K.O. c'était possible?
+
+ Et si la décision était d'arrêter avant ?
+
+ Et s'il n'y avait pas de lutte ?
+
+ Et si le seul adversaire était nous-mêmes ?
+
+ Et si vivre était plus simple?
   </p>
 </div>
 
 <div>
-  <strong>Kolotiana Ramonja</strong><br /> Texte, compositions musicales et jeu
+  Kolotiana Ramonja
+
+ Texte, compositions musicales et jeu
 </div>
 
 **Clémentine Jolivet**

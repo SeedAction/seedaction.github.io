@@ -8,7 +8,9 @@ image: ecorcc3a9s.jpg
 
 
 
-Mercredi 27 novembre à 20h<br /> **Impro les écorcés  
+Mercredi 27 novembre à 20h
+
+ **Impro les écorcés  
 ** 5/10€
 
 Les Ecorcés, c'est une troupe de théâtre improvisé lyonnaise qui recherche à travers le mouvement, le corps et les émotions à créer des voyages artistiques

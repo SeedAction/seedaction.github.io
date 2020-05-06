@@ -18,7 +18,9 @@ image: helene_piris_live.jpg
 
 
 
-« Attention, soirées uniques !<br /> Hélène Piris a carte blanche pour inviter des ami.e.s artistes de très grand talent, qui l'accompagneront sur ses chansons, nouvelles et plus anciennes... soirées riches en émotions en perspective ! »
+« Attention, soirées uniques !
+
+ Hélène Piris a carte blanche pour inviter des ami.e.s artistes de très grand talent, qui l'accompagneront sur ses chansons, nouvelles et plus anciennes... soirées riches en émotions en perspective ! »
 
 Sont annoncés en guest star Alexandre Castillon et Frédéric Allérat !
 

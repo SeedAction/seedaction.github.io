@@ -10,7 +10,9 @@ image: gentil-batard.jpg
 **
 **
 Mercredi 18, Jeudi 19 à 20h**  
-** **Nicolas Tarik + Gentil Batard**<br /> 5/10€
+** **Nicolas Tarik + Gentil Batard**
+
+ 5/10€
 
  
 

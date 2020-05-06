@@ -9,7 +9,9 @@ image2: logo-cdm2019.jpg
 
 
 
-<br /> 
+
+
+ 
 Vendredi 29 mars à 20h  
 Alexandre Castillon dans le cadre du festival des chants de mars  
 8/13€
@@ -25,4 +27,6 @@ Alexandre et ses acolytes sillonnent la France à la rencontre d'un public toujo
 
 
 
-#### <b><br />  </b>
+#### 
+
+  </b>

@@ -18,4 +18,4 @@ Guitare au poing, Karine Daviet trace la perspective d’un répertoire protéif
 
 
 
-<strong>Blandine</strong>, accompagnée de sa valiha (harpe tubulaire), nous transporte dans un monde lointain, son monde. Ses chansons mêlant poésie et créativité, elle nous dévoile des sonorités atypiques et une voix mélodieuse. 
+Blandine, accompagnée de sa valiha (harpe tubulaire), nous transporte dans un monde lointain, son monde. Ses chansons mêlant poésie et créativité, elle nous dévoile des sonorités atypiques et une voix mélodieuse. 

@@ -21,7 +21,9 @@ image2: simonet-150x150.jpg
 </div>
 
 **Dimanche 12 mai à 18h****  
-** **Co-plateau Eric Simonet / Fred Viviani**<br /> 5/10€
+** **Co-plateau Eric Simonet / Fred Viviani**
+
+ 5/10€
 
 « Eric trimbale son univers de chansons colorées à travers les ombres et aussi la lumière de rythmes et d'arpèges de guitare et un fil conducteur humoristique dans un nouveau spectacle avec la participation d'invités surprise !  » 
 

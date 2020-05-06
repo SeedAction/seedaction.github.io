@@ -7,7 +7,11 @@ image: mercierjpeg.jpg
 ---
 
 
-<br /> Samedi 5 à 20h, dimanche 6 à 18h<br /> **Mélodies Chroniques - goguettes de Patrice Mercier  ** **1ères parties surprises  
+
+
+ Samedi 5 à 20h, dimanche 6 à 18h
+
+ **Mélodies Chroniques - goguettes de Patrice Mercier  ** **1ères parties surprises  
 ** 8/13€
 
  

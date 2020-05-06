@@ -16,4 +16,6 @@ Jeudi 4 à 20h
 
 Ouverture des portes à 19h30
 
-Une scène ouverte animée par <strong>Yannick </strong>et<strong> florent</strong> qui vous est dédiée.<br /> Venez vous exprimer par n’importe quel biais : chant, instruments de musique, slam, théâtre, poésie... 
+Une scène ouverte animée par Yannick et florent qui vous est dédiée.
+
+ Venez vous exprimer par n’importe quel biais : chant, instruments de musique, slam, théâtre, poésie... 

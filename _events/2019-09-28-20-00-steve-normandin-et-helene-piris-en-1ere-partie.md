@@ -7,7 +7,11 @@ image: ste_8531-1-scaled.jpg
 ---
 
 
-<br /> Samedi 28 septembre à 20h, dimanche 29 à 18h<br /> **Steve Normandin  ** **Hélène Piris en 1ère partie  
+
+
+ Samedi 28 septembre à 20h, dimanche 29 à 18h
+
+ **Steve Normandin  ** **Hélène Piris en 1ère partie  
 ** 5/10€
 
 Le pianiste et accordéoniste québécois Steve Normandin chante, raconte et dévoile plusieurs des facettes musicales de son pays natal. Découvrez avec lui les grands moments de la chanson québécoise, croisant quelquefois le répertoire de la musique traditionnelle et ses compositions originales. Parmi les auteurs que Steve Normandin aime interpréter : La Bolduc, Félix Leclerc, Gilles Vigneault, Jacques Blanchet, Georges Dor, Sylvain Lelièvre, Raymond Lévesque et Robert Charlebois... Bon voyage dans la Belle Province!

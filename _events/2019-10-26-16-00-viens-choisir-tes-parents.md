@@ -8,7 +8,9 @@ image: viens-choisir.jpg
 
 
 
-Samedi 26 à 16h et 20h, dimanche 27 octobre à 15h et 18h<br /> **Viens choisir tes parents (Jeune public) par la Cie Semelle de vent  
+Samedi 26 à 16h et 20h, dimanche 27 octobre à 15h et 18h
+
+ **Viens choisir tes parents (Jeune public) par la Cie Semelle de vent  
 ** 5/10€
 
 À partir de 4 ans

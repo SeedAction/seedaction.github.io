@@ -9,12 +9,16 @@ month: décembre-2018
 
 Samedi 1 à 20h, dimanche 2 à 18h
 
-<b>Régis Mannarini</b>
+Régis Mannarini</b>
 
-8€<br /> **  
+8€
+
+ **  
 ** 
 
-En trio piano, guitare, contrebasse, Régis Mannarini emmène la chanson française voyager en compagnie de sa folie ordinaire et de sa tendresse, tantôt mutine tantôt mélancolique. Accompagné de trafiquants de rêve, de Django ou de femmes fatalement fatales.<br /> Crédit photo : Pierre Terrasson
+En trio piano, guitare, contrebasse, Régis Mannarini emmène la chanson française voyager en compagnie de sa folie ordinaire et de sa tendresse, tantôt mutine tantôt mélancolique. Accompagné de trafiquants de rêve, de Django ou de femmes fatalement fatales.
+
+ Crédit photo : Pierre Terrasson
 
 [Le site ](http://regismannarini.com/)
 

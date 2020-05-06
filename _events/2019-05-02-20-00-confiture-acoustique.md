@@ -16,4 +16,8 @@ Prix libre/adhésion 5€
 
 
 
-Ouverture des portes à 19h30<br /> Une scène ouverte animée par **Lily Luca** qui vous est dédiée.<br /> Venez vous exprimer par n’importe quel biais : chant, instruments de musique, slam, théâtre, poésie… 
+Ouverture des portes à 19h30
+
+ Une scène ouverte animée par **Lily Luca** qui vous est dédiée.
+
+ Venez vous exprimer par n’importe quel biais : chant, instruments de musique, slam, théâtre, poésie… 

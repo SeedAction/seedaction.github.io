@@ -1,6 +1,7 @@
 ---
 title: Un nouvel évènement test
 date: '2020-05-08 20:30:00'
+month: mai-2020
 image: assets/img/events/0.jpg
 layout: event
 ---

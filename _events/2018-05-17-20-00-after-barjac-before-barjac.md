@@ -3,6 +3,7 @@ layout: event
 title:  "After Barjac, before Barjac"
 date:   2018-05-17 20:00:00 +0200
 month: mai-2018
+tarif: 5€
 ---
 Barjac m'en chante, été 2017… Mr G, notre programmateur se rend pour la 1ère fois au festival... Il découvre enfin, à l’occasion des scènes ouvertes de 1h18 puis aux bœufs de 3h32, des artistes d'une contrée lointaine (Paris en fait ! ) … ils sont désormais ici, invités pour quatre soirs entre les murs d'agend'Arts.
 

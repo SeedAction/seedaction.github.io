@@ -4,17 +4,12 @@ title:  "Scène ouverte slam"
 date:   2018-10-05 20:00:00 +0200
 month: octobre-2018
 image: assets/img/events/1918-marco-dsl-lun-02152010-1615.jpg
+tarif: libre
 ---
 
+Ouverture à 19h30, buffet offert puis démarrage à 20h
 
-
-
- Scène ouverte slam</b>
-
- vendredi 5  (ouverture à 19h30: buffet offert puis démarrage à 20h) 
-Organisé par La déchirature
-
-Prix libre
+Organisé par **La déchirature**
 
 Avis aux amateurs de Slam : bavardeur, slamineur de fond, académilicien, poète maudit, poète classique, Very Important Poète, féru de poérésie, travailleur du verbe, intermittent de l'écriture, dur de la feuille, militant verbal, rimeur à gage, bête à concours, oiseau lyrique, slamentable, obsédé textuel, et bien sûr le public sont les bienvenus… pour ce RDV mensuel à agend’Arts.
 

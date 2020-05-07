@@ -3,21 +3,8 @@ layout: event
 title:  "Les folles de Léon"
 date:   2018-11-10 20:00:00 +0200
 month: novembre-2018
+tarif: 5€
 ---
-
-
-Samedi 10 à 20h, dimanche 11 à 18h
-5€
-
-**Les Folles de Léon**
-
-
-
-
-
-
-
-
 
 C'est deux voix et un accordéon,  
 C'est deux filles et leur Léon.  
@@ -38,4 +25,5 @@ Il y a de la poésie dans l'air.
 On danse. Léon est en transe.  
 Voilà on se réchauffe le coeur comme ça,  
 aux variations insaisissables de ces voix.  
-**Avec Amélie Venisse et Leslie Guivarc’h**
+
+Avec **Amélie Venisse** et **Leslie Guivarc’h**

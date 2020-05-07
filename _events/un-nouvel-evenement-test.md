@@ -26,4 +26,4 @@ Là par contre je n'ai plus d'*inspiration* alors je vais essayer de rédiger un
 > Est-ce qu'on peut insérer une vidéo Youtube ?
 > Je ne pense pas... Mais cet éditeur est déjà pas mal..!
 
-{% youtube "https://www.youtube.com/watch?v=Ne5J4bxWypI" %}
+[youtube](https://www.youtube.com/watch?v=Ne5J4bxWypI)

@@ -4,14 +4,8 @@ title:  "Marcel et Fredo (Quand Maggy Bolle rencontre Bernard Dimey)"
 date:   2019-03-23 20:00:00 +0200
 month: mars-2019
 image: fredo-scaled.jpg
+tarif: 8€
 ---
-
-
-  Samedi 23 à 20h, dimanche 24 mars à 18h  
-**Marcel et Fredo (Quand Maggy Bolle rencontre Bernard Dimey)  
-** 8€
-
-
 
 Poésie et chansons urbaines
 

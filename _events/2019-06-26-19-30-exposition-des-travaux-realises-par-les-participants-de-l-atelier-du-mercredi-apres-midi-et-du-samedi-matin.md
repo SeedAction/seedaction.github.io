@@ -4,12 +4,11 @@ title:  "Exposition des travaux réalisés par les participants de l’atelier d
 date:   2019-06-26 19:30:00 +0200
 month: juin-2019
 image: vernissagejpg.jpg
+tarif: libre
 ---
 
-**
-Mercredi 26 juin à partir de 19h30  Vernissage BD  
-** Entrée libre
+## Vernissage BD  
 
-Exposition des travaux réalisés par les participants de l’atelier du mercredi après midi et du samedi matin
+Exposition des travaux réalisés par les participants de l’atelier du mercredi après midi et du samedi matin.
 
-Buffet froid offert.
+Buffet froid offert

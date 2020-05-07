@@ -5,21 +5,13 @@ date:   2019-12-19 20:00:00 +0200
 month: décembre-2019
 image: tarik.jpg
 image: gentil-batard.jpg
+tarif: 5€
 ---
 
-**
-**
-Mercredi 18, Jeudi 19 à 20h**  
-** **Nicolas Tarik + Gentil Batard**
-
- 5/10€
-
- 
-
 « Avec son folk brassé aux soleils des îles, Nicolas Tarik revient aux origines  : la famille, la filiation, les amours empêchés, l'amitié. En plein chantier de son prochain album, Nicolas Tarik présentera au public d’Agend'arts des titres inédits et, en exclusivité, des featurings avec plusieurs artistes amis : Diez, Neptune, Vincent de Sup'Sap’ sont d’ores et déjà annoncés.  
-[https://www.nicolastarik.com](https://www.nicolastarik.com/)  
 
+[Le site](https://www.nicolastarik.com/)  
 
+**Gentil-bâtard** nous offrent de belles chansons françaises teintées de pop/folk aux textes bruts et poétiques.l'univers de Gentil Bâtard ne demande qu'à être découvert. 
 
-**
-Gentil-bâtard** nous offrent de belles chansons françaises teintées de pop/folk aux textes bruts et poétiques.l'univers de Gentil Bâtard ne demande qu'à être découvert. Avec Arthur Clément.
+Avec **Arthur Clément**.

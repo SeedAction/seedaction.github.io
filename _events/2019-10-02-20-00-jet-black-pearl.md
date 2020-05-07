@@ -4,17 +4,15 @@ title:  "JET BLACK PEARL"
 date:   2019-10-02 20:00:00 +0200
 month: octobre-2019
 image: accordelyon.jpg
+tarif: libre
 ---
 
+## Accordélyon  
+
+Accordélyon est né de la rencontre entre deux associations lyonnaises passionnées par l’accordéon : Souffle Discontinu et Bretelles du Monde. Notre objet : Promouvoir l’accordéon à Lyon à travers une saison culturelle, des rendez-vous pour célébrer ce bel instrument.
 
 
-Mercredi 2 octobre  
-Accordélyon  
-**JET BLACK PEARL**  
-Prix libre / 5€  
-ACCORDéLYON est né de la rencontre entre deux associations lyonnaises passionnées par l’accordéon : Souffle Discontinu et Bretelles du Monde. Notre objet : Promouvoir l’accordéon à Lyon à travers une saison culturelle, des rendez-vous pour célébrer ce bel instrument.
-
-**JET BLACK PEARL**
+## JET BLACK PEARL
 
 Jet Black Pearl est une bricoleuse de one-woman shows électriques à la boîte à frisson, sortie d’une comédie populo merveilleuse, drôle, grisante, comme du Fréhel punk sur hip hop mutant.
 
@@ -22,7 +20,8 @@ D’origine du port d’Amsterdam, elle voyage toute l’année entre Portland (
 
 Elle crée des boucles avec de la percussion vocale, la flûte, des bouteilles en plastic et des cochons en caoutchouc, tout en s’accompagnant à l’accordéon.
 
-<a href="https://www.jetblackpearl.com/?fbclid=IwAR3NWLiFdMS0z1I2iStE3jhzV1Ev6Ut9JRGfOTC7J-l-NRfX2QYUoNexSh8" target="_blank" rel="nofollow noopener noreferrer">https://www.jetblackpearl.com</a>  
-<a href="https://www.youtube.com/watch?v=b5caHrUOI0s&list=PLG_IrgSWmEgvRSHuoNaR5FEYSKRBDGeew&fbclid=IwAR2Edwekvi-nPKWJ7QZln7Va67ENy4gjX80E-tMoiDuCXGyFFg5PPdjhZFs" target="_blank" rel="nofollow noopener noreferrer">v=b5caHrUOI0s&list=PLG_IrgSWmEgvRSHuoNaR5FEYSKRBDGeew</a>
+[Le site](https://www.jetblackpearl.com)
 
-précédé de <a href="https://www.facebook.com/christian.oller.58" target="_blank" rel="noopener noreferrer">Christian Oller</a>
+[Écouter des extraits](https://www.youtube.com/watch?v=b5caHrUOI0s&list=PLG_IrgSWmEgvRSHuoNaR5FEYSKRBDGeew&fbclid=IwAR2Edwekvi-nPKWJ7QZln7Va67ENy4gjX80E-tMoiDuCXGyFFg5PPdjhZFs)
+
+Précédé de [Christian Oller](https://www.facebook.com/christian.oller.58)

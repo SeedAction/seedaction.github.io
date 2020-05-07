@@ -6,28 +6,11 @@ month: mai-2019
 image: le-poulichet.png
 image2: angéline-150x150.jpg
 image3: minook.jpg
+tarif: 5€
 ---
 
-Samedi 11 à 20h30
-  **Emmanuel Le Poulichet présente :  
-Mina et Angéline  
-** 5/10€
-
-<div id='gallery-2' class='gallery galleryid-5753 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-
-    <a href='http://localhost/wpagendarts/index.php/2018/12/10/samedi-11-mars-a-20h-eleves-demmanuel-le-poulichet/angeline/'>
-</a>  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-
-    <a href='http://localhost/wpagendarts/index.php/2018/12/10/samedi-11-mars-a-20h-eleves-demmanuel-le-poulichet/minook/'>
-</a>  </div></figure>
-</div>
-
-
+### Emmanuel Le Poulichet présente :  
+## Mina et Angéline  
 
 **Mino** a puisé ses coups de cœur dans le répertoire français et nous propose son tour de chant : « Couleurs d’Orange » ... une palette de mots et de notes qu’elle nous offre sans réserve et avec beaucoup de passion...
 

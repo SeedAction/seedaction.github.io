@@ -12,7 +12,7 @@ layout: default
       {%- assign date_format = "%A %d %B" -%}
       {%- assign date_english = page.date | date: date_format -%}
       {%- include date-french.html -%}
-      {{ date_french }}, à {{ page.horaire | default: "20h" }}
+      {{ date_french }}, à {{ page.date | date: "%H:%M" }}
     </time>
   </header>
 

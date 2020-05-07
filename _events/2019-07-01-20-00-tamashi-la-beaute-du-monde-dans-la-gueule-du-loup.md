@@ -4,15 +4,8 @@ title:  "Tamashi : la beauté du monde, dans la gueule du loup"
 date:   2019-07-01 20:00:00 +0200
 month: juillet-2019
 image: danslagueleduloup_a_chitrit_photo_gghersy.jpg
+tarif: 5€
 ---
-
-**
-**
-**Lundi 1er à 20h30  
-** **Tamashi : la beauté du monde, dans la gueule du loup  
-** 5/10€
-
-
 
 Avec **Armelle Chitrit**
 

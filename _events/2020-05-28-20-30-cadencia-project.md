@@ -4,7 +4,7 @@ title:  "Cadencia project"
 date:   2020-05-28 20:30:00 +0200
 month: mai-2020
 tarif: 5€
-image: cadencia-project.jpg
+image: assets/img/events/cadencia-project.jpg
 tickets: https://www.helloasso.com/associations/abra/evenements/choeur-en-pente-spectacle-de-fin-d-annee-des-eleves-d-helene-piris
 ---
 

@@ -3,7 +3,7 @@ layout: event
 title:  "Mélodies Chroniques - goguettes de Patrice Mercier"
 date:   2019-10-05 20:00:00 +0200
 month: octobre-2019
-image: mercierjpeg.jpg
+image: assets/img/events/mercierjpeg.jpg
 tarif: 8€
 ---
 

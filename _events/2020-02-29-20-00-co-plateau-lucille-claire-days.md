@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Lucille / Claire Days"
 date:   2020-02-29 20:00:00 +0200
 month: février-2020
-image: illustration-concert-de-claire-days-et-lucile_1-1557937488.jpg
+image: assets/img/events/illustration-concert-de-claire-days-et-lucile_1-1557937488.jpg
 tarif: 5€
 ---
 

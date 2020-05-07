@@ -3,7 +3,7 @@ layout: event
 title:  "King Kong Vahiné présente VOL 404"
 date:   2020-02-09 18:00:00 +0200
 month: février-2020
-image: denisrivet.jpg
+image: assets/img/events/denisrivet.jpg
 tarif: 5€
 ---
 

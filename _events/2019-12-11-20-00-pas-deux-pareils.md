@@ -3,7 +3,7 @@ layout: event
 title:  "Pas deux pareils"
 date:   2019-12-11 20:00:00 +0200
 month: décembre-2019
-image: pas-deux-pareils-visuel.jpg
+image: assets/img/events/pas-deux-pareils-visuel.jpg
 tarif: 5€
 ---
 

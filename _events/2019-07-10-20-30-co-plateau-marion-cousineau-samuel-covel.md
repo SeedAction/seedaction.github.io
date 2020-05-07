@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Marion Cousineau / Samuel Covel"
 date:   2019-07-10 20:30:00 +0200
 month: juillet-2019
-image: 56595463_309473353058253_9206509913646301184_n.jpg
+image: assets/img/events/56595463_309473353058253_9206509913646301184_n.jpg
 image2: cousineau.jpg
 image3: covel.jpg
 tarif: 5€

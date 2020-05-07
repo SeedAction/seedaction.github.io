@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Lucile / Claire Days"
 date:   2019-05-29 20:30:00 +0200
 month: mai-2019
-image: recto-scaled.jpg
+image: assets/img/events/recto-scaled.jpg
 image2: marie-days-150x150.jpg
 tarif: 5€
 ---

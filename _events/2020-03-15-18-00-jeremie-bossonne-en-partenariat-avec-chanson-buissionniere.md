@@ -3,7 +3,7 @@ layout: event
 title:  "Jérémie Bossonne (En partenariat avec chanson Buissionnière)"
 date:   2020-03-15 18:00:00 +0200
 month: mars-2020
-image: bossone.jpg
+image: assets/img/events/bossone.jpg
 tarif: 8€
 ---
 

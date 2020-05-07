@@ -3,7 +3,7 @@ layout: event
 title:  "Mounya Boudiaf"
 date:   2019-11-24 18:00:00 +0200
 month: novembre-2019
-image: mounya-boudiaf-1.jpg
+image: assets/img/events/mounya-boudiaf-1.jpg
 tarif: 5€
 ---
 

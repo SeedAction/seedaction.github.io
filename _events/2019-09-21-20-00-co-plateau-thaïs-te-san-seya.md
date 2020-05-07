@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Thaïs Té / San Seya"
 date:   2019-09-21 20:00:00 +0200
 month: septembre-2019
-image: tc3a9seya.jpg
+image: assets/img/events/tc3a9seya.jpg
 tarif: 5€
 ---
 

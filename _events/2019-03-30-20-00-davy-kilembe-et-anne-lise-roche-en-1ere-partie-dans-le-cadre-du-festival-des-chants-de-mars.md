@@ -3,7 +3,7 @@ layout: event
 title:  "Davy Kilembé et Anne Lise Roche en 1ère partie dans le cadre du Festival Des Chants De Mars"
 date:   2019-03-30 20:00:00 +0200
 month: mars-2019
-image: annelise.jpg
+image: assets/img/events/annelise.jpg
 image2: kilembe-carre.jpg
 image3: logo-cdm2019.jpg
 tarif: 8€

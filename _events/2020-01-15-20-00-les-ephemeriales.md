@@ -3,7 +3,7 @@ layout: event
 title:  "Les Ephémèriales"
 date:   2020-01-15 20:00:00 +0200
 month: janvier-2020
-image: ephemeriales.jpg
+image: assets/img/events/ephemeriales.jpg
 tarif: 5€
 ---
 

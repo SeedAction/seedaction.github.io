@@ -3,7 +3,7 @@ layout: event
 title:  "Alexandre Castillon"
 date:   2020-02-04 20:00:00 +0200
 month: février-2020
-image: a_castillon_profil.png
+image: assets/img/events/a_castillon_profil.png
 tarif: 5€
 ---
 

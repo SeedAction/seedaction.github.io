@@ -3,7 +3,7 @@ layout: event
 title:  "Emile le roi de la récup' (COMPLET!)"
 date:   2020-01-15 15:00:00 +0200
 month: janvier-2020
-image: affiche-impression-scaled.jpg
+image: assets/img/events/affiche-impression-scaled.jpg
 image2: dos-c3a0-dos-150x150.jpg
 image3: emile-et-poubelle-150x150.jpg
 tarif: 5€

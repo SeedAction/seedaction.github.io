@@ -3,7 +3,7 @@ layout: event
 title:  "Ursule et Madame chansons à baignoire"
 date:   2018-11-08 20:00:00 +0200
 month: novembre-2018
-image: madame.jpg
+image: assets/img/events/madame.jpg
 ---
 
 

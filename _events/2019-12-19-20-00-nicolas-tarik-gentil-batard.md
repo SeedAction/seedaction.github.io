@@ -3,8 +3,8 @@ layout: event
 title:  "Nicolas Tarik + Gentil Batard"
 date:   2019-12-19 20:00:00 +0200
 month: décembre-2019
-image: tarik.jpg
-image: gentil-batard.jpg
+image: assets/img/events/tarik.jpg
+image: assets/img/events/gentil-batard.jpg
 tarif: 5€
 ---
 

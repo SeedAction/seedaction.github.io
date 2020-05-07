@@ -3,7 +3,7 @@ layout: event
 title:  "Corentin Grellier (En partenariat avec Chansons Buissonières)"
 date:   2020-01-26 20:00:00 +0200
 month: janvier-2020
-image: grollier-scaled.jpg
+image: assets/img/events/grollier-scaled.jpg
 tarif: 5€
 ---
 

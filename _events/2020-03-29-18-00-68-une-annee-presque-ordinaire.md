@@ -3,7 +3,7 @@ layout: event
 title:  "68, une année presque ordinaire"
 date:   2020-03-29 18:00:00 +0200
 month: mars-2020
-image: affiche-projet-04.jpg
+image: assets/img/events/affiche-projet-04.jpg
 tarif: 5€
 ---
 

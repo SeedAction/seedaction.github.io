@@ -3,7 +3,7 @@ layout: event
 title:  "Bertrand Van Asch"
 date:   2020-03-14 20:00:00 +0200
 month: mars-2020
-image: bertrand-van-asch-scaled.jpeg
+image: assets/img/events/bertrand-van-asch-scaled.jpeg
 tarif: 5€
 ---
 

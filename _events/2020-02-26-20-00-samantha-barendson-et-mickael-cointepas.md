@@ -3,7 +3,7 @@ layout: event
 title:  "Samantha Barendson et Mickael Cointepas"
 date:   2020-02-26 20:00:00 +0200
 month: février-2020
-image: insomnies-copie.jpg
+image: assets/img/events/insomnies-copie.jpg
 tarif: 5€
 ---
 

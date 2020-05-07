@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Davy Kilembe et Laurent Berger"
 date:   2020-02-16 18:00:00 +0200
 month: février-2020
-image: kilembe-carre.jpg
+image: assets/img/events/kilembe-carre.jpg
 image2: laurent-berger-valeria-pacella-carrecc81.jpg
 image3: medhi.jpg
 tarif: 5€

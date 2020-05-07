@@ -3,7 +3,7 @@ layout: event
 title:  "Impro les écorcés"
 date:   2019-11-27 20:00:00 +0200
 month: novembre-2019
-image: ecorcc3a9s.jpg
+image: assets/img/events/ecorcc3a9s.jpg
 tarif: 5€
 ---
 

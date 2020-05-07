@@ -3,7 +3,7 @@ layout: event
 title:  "Christian Labonne"
 date:   2019-05-16 20:30:00 +0200
 month: mai-2019
-image: chris-labonne-photo-franc3a7ois-truc-1.jpg
+image: assets/img/events/chris-labonne-photo-franc3a7ois-truc-1.jpg
 tarif: 5€
 ---
 

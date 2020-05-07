@@ -3,7 +3,7 @@ layout: event
 title:  "Slamarilla (Scène ouverte slam)"
 date:   2019-04-05 20:00:00 +0200
 month: avril-2019
-image: 46767517_2219858944935957_8768189470089412608_n.jpg
+image: assets/img/events/46767517_2219858944935957_8768189470089412608_n.jpg
 tarif: libre
 ---
 

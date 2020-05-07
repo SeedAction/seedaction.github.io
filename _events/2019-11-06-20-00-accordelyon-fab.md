@@ -3,7 +3,7 @@ layout: event
 title:  "Accordélyon FAB"
 date:   2019-11-06 20:00:00 +0200
 month: novembre-2019
-image: fab-polaroicc88d-ingrid.jpg
+image: assets/img/events/fab-polaroicc88d-ingrid.jpg
 tarif: 5€
 ---
 

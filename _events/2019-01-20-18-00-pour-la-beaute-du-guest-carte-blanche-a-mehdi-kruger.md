@@ -3,7 +3,7 @@ layout: event
 title:  "Pour la beauté du guest (Carte blanche à Mehdi Kruger)"
 date:   2019-01-20 18:00:00 +0200
 month: janvier-2019
-image: medhi.jpg
+image: assets/img/events/medhi.jpg
 tarif: 8€
 ---
 

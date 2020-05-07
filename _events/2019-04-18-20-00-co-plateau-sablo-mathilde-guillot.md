@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Sablo / Mathilde Guillot"
 date:   2019-04-18 20:00:00 +0200
 month: avril-2019
-image: mathilde.jpg
+image: assets/img/events/mathilde.jpg
 image2: sablo-150x150.jpg
 tarif: 5€
 ---

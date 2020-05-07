@@ -3,7 +3,7 @@ layout: event
 title:  "La vallée des livres"
 date:   2019-04-17 15:30:00 +0200
 month: avril-2019
-image: vallee-des-livres.jpg
+image: assets/img/events/vallee-des-livres.jpg
 tarif: 5€
 ---
 

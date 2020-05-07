@@ -3,7 +3,7 @@ layout: event
 title:  "Soirée en partenariat avec l'ENM"
 date:   2020-03-22 20:00:00 +0200
 month: mars-2020
-image: enm.jpg
+image: assets/img/events/enm.jpg
 tarif: 5€
 ---
 

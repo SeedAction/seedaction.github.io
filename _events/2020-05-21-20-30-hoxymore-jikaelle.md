@@ -5,7 +5,7 @@ date:   2020-05-21 20:30:00 +0200
 month: mai-2020
 tarif: 5€
 tickets: https://www.helloasso.com/associations/abra/evenements/choeur-en-pente-spectacle-de-fin-d-annee-des-eleves-d-helene-piris
-image: oxy.jpg
+image: assets/img/events/oxy.jpg
 ---
 
 Se savoir ici, tout en ayant la tête qui vagabonde… vous connaissez aussi ce sentiment, non ? Avoir les pieds posés sur le sol et le sentiment qu’une partie de soi s’envole là-bas, très loin. Justement, Entre ici et ailleurs, il y a Jikaëlle. Une voix qui mêle la force de la rêverie et la fragilité du réel, ou l’inverse, cela dépend des jours. Une bulle poétique qui s’est esquissée entre Evasions et Evidences, du nom de ses deux premiers albums, et qui apparaît au grand jour dans son 3ème disque, sorti il y a quelques semaines. »

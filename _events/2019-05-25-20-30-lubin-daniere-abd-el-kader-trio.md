@@ -3,7 +3,7 @@ layout: event
 title:  "Lubin Danière Abd-el-Kader Trio"
 date:   2019-05-25 20:30:00 +0200
 month: mai-2019
-image: lubin.jpg
+image: assets/img/events/lubin.jpg
 tarif: 5€
 ---
 

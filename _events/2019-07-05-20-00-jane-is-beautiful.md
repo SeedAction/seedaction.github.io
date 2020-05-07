@@ -3,7 +3,7 @@ layout: event
 title:  "Jane is beautiful"
 date:   2019-07-05 20:00:00 +0200
 month: juillet-2019
-image: affiche-photo-guillaume-le-baube-_-graphisme-camille-lebegue-_-bassdef.jpg
+image: assets/img/events/affiche-photo-guillaume-le-baube-_-graphisme-camille-lebegue-_-bassdef.jpg
 tarif: 5€
 ---
 

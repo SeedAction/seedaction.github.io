@@ -3,7 +3,7 @@ layout: event
 title:  "Co-plateau Anne-Lise Roche & Léonor Bolcatto"
 date:   2019-02-14 20:00:00 +0200
 month: février-2019
-image: annelise.jpg
+image: assets/img/events/annelise.jpg
 tarif: 5€
 ---
 

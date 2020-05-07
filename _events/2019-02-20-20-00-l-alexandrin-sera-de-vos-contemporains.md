@@ -3,7 +3,7 @@ layout: event
 title:  "L'Alexandrin sera de vos contemporains"
 date:   2019-02-20 20:00:00 +0200
 month: février-2019
-image: greg2.jpg
+image: assets/img/events/greg2.jpg
 tarif: 5€
 ---
 

@@ -3,7 +3,7 @@ layout: event
 title:  "Maelstrom, tourbillon de la vie."
 date:   2019-10-23 20:00:00 +0200
 month: octobre-2019
-image: maestrom-scaled.jpg
+image: assets/img/events/maestrom-scaled.jpg
 tarif: 5€
 ---
 

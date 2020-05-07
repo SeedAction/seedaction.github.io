@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Mæryna et Igmanë"
 date:   2019-11-02 20:00:00 +0200
 month: novembre-2019
-image: juthier-1.jpg
+image: assets/img/events/juthier-1.jpg
 image2: lgmanc3ab.jpg
 tarif: 5€
 ---

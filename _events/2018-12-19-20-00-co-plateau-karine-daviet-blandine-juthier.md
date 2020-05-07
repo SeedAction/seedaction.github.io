@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Karine Daviet / Blandine Juthier"
 date:   2018-12-19 20:00:00 +0200
 month: décembre-2018
-image: daviet.jpg
+image: assets/img/events/daviet.jpg
 image2: agend1.jpg
 ---
 

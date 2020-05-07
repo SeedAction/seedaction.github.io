@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Diez + Lorelei"
 date:   2019-11-29 20:00:00 +0200
 month: novembre-2019
-image: loreilidiez.jpg
+image: assets/img/events/loreilidiez.jpg
 tarif: 5€
 ---
 

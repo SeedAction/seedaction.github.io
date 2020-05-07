@@ -3,7 +3,7 @@ layout: event
 title:  "Carte blanche à l'ENM"
 date:   2019-06-19 20:00:00 +0200
 month: juin-2019
-image: 8855505_300x300.png
+image: assets/img/events/8855505_300x300.png
 tarif: libre
 ---
 

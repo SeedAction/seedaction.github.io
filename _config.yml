@@ -16,8 +16,9 @@ url: ""
 # Build settings
 future: true
 markdown: kramdown
-plugins:
-  - jekyll-feed
+plugins: [jekyll-feed, jekyll-youtube]
+#  - jekyll-feed
+  
 
 
 # Collections

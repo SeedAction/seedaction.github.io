@@ -3,7 +3,7 @@ layout: event
 title:  "Women world cup finals"
 date:   2019-07-06 17:00:00 +0200
 month: juillet-2019
-image: ob_3b77f2_france-2019-cdm.jpg
+image: assets/img/events/ob_3b77f2_france-2019-cdm.jpg
 tarif: libre
 ---
 

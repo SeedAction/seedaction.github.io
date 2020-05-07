@@ -3,7 +3,7 @@ layout: event
 title:  "Le spectacle suspendu"
 date:   2019-11-15 20:00:00 +0200
 month: novembre-2019
-image: lucie-salvi.jpg
+image: assets/img/events/lucie-salvi.jpg
 tarif: 5€
 ---
 

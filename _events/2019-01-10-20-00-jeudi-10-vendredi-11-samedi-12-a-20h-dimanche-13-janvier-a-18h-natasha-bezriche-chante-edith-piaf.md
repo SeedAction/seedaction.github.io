@@ -3,7 +3,7 @@ layout: event
 title:  "Jeudi 10, Vendredi 11, samedi 12 à 20h, dimanche 13 janvier à 18h - Natasha Bezriche chante Edith Piaf"
 date:   2019-01-10 20:00:00 +0200
 month: janvier-2019
-image: affiche-piaf-voix-pas-chant-scaled.jpg
+image: assets/img/events/affiche-piaf-voix-pas-chant-scaled.jpg
 tarif: 8€
 ---
 

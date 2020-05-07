@@ -3,7 +3,7 @@ layout: event
 title:  "Confiture acoustique"
 date:   2019-05-02 20:00:00 +0200
 month: mai-2019
-image: confiture.jpg
+image: assets/img/events/confiture.jpg
 tarif: libre
 ---
 

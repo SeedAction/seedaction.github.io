@@ -3,7 +3,7 @@ layout: event
 title:  "Eric Simonet + Fred Viviani"
 date:   2018-10-17 20:00:00 +0200
 month: octobre-2018
-image: simonet.jpg
+image: assets/img/events/simonet.jpg
 image2: viviani.jpg
 ---
 

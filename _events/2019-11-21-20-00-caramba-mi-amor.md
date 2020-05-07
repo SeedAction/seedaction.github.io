@@ -3,7 +3,7 @@ layout: event
 title:  "Caramba mi amor"
 date:   2019-11-21 20:00:00 +0200
 month: novembre-2019
-image: manue-cuatro_chants-copie-2-1-1.jpg
+image: assets/img/events/manue-cuatro_chants-copie-2-1-1.jpg
 tarif: 5€
 ---
 

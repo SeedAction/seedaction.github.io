@@ -3,7 +3,7 @@ layout: event
 title:  "Jean-christophe Lacroix + invités"
 date:   2019-01-26 20:00:00 +0200
 month: janvier-2019
-image: lacroix.jpg
+image: assets/img/events/lacroix.jpg
 tarif: 5€
 ---
 

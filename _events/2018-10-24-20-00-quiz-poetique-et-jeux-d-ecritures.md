@@ -3,7 +3,7 @@ layout: event
 title:  "Quiz poétique (et jeux d'écritures)"
 date:   2018-10-24 20:00:00 +0200
 month: octobre-2018
-image: quizz.jpg
+image: assets/img/events/quizz.jpg
 ---
 
 

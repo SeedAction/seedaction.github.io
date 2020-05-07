@@ -3,7 +3,7 @@ layout: event
 title:  "K.O / L.O (Accordélyon)"
 date:   2020-02-21 20:00:00 +0200
 month: février-2020
-image: k.o.-kolo-.jpg
+image: assets/img/events/k.o.-kolo-.jpg
 tarif: 5€
 ---
 

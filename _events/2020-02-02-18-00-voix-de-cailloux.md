@@ -3,7 +3,7 @@ layout: event
 title:  "Voix de cailloux"
 date:   2020-02-02 18:00:00 +0200
 month: février-2020
-image: photo-bernard-carrecc81-.jpg
+image: assets/img/events/photo-bernard-carrecc81-.jpg
 tarif: 8€
 ---
 

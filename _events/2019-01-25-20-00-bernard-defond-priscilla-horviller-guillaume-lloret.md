@@ -3,7 +3,7 @@ layout: event
 title:  "Bernard Defond + Priscilla Horviller + Guillaume Lloret"
 date:   2019-01-25 20:00:00 +0200
 month: janvier-2019
-image: moi13.jpg
+image: assets/img/events/moi13.jpg
 tarif: 5€
 ---
 

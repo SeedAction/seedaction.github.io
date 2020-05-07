@@ -3,7 +3,7 @@ layout: event
 title:  "Astrono-Magico"
 date:   2019-12-01 18:00:00 +0200
 month: décembre-2019
-image: flodjo.jpg
+image: assets/img/events/flodjo.jpg
 tarif: 5€
 ---
 

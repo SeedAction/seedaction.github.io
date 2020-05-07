@@ -3,7 +3,7 @@ layout: event
 title:  "Emmanuel Le Poulichet"
 date:   2019-01-26 20:00:00 +0200
 month: janvier-2019
-image: le-poulichet.png
+image: assets/img/events/le-poulichet.png
 tarif: 8€
 ---
 

@@ -3,7 +3,7 @@ layout: event
 title:  "Stage chant avec Chems Amrouche et Masterclasse mandole algérien avec Malik Ziad"
 date:   2019-04-20 10:00:00 +0200
 month: avril-2019
-image: atelier-chant-maghreb.jpg
+image: assets/img/events/atelier-chant-maghreb.jpg
 image2: atelier-chant1-maghreb.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: event
 title:  "Scène ouverte slam"
 date:   2018-11-02 20:00:00 +0200
 month: novembre-2018
-image: 1918-marco-dsl-lun-02152010-1615.jpg
+image: assets/img/events/1918-marco-dsl-lun-02152010-1615.jpg
 ---
 
 

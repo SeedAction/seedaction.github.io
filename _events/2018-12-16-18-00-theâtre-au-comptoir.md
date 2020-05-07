@@ -3,7 +3,7 @@ layout: event
 title:  "Théâtre au comptoir"
 date:   2018-12-16 18:00:00 +0200
 month: décembre-2018
-image: scene-au-comptoir1.jpg
+image: assets/img/events/scene-au-comptoir1.jpg
 ---
 
 

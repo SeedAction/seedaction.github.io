@@ -3,7 +3,7 @@ layout: event
 title:  "Emmanuel Le Poulichet présente Mino et Angéline"
 date:   2019-05-11 20:30:00 +0200
 month: mai-2019
-image: le-poulichet.png
+image: assets/img/events/le-poulichet.png
 image2: angéline-150x150.jpg
 image3: minook.jpg
 tarif: 5€

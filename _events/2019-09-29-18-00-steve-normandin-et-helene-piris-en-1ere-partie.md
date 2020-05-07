@@ -3,7 +3,7 @@ layout: event
 title:  "Steve Normandin et Hélène Piris en 1ère partie"
 date:   2019-09-29 18:00:00 +0200
 month: septembre-2019
-image: ste_8531-1-scaled.jpg
+image: assets/img/events/ste_8531-1-scaled.jpg
 tarif: 5€
 ---
 

@@ -3,7 +3,7 @@ layout: event
 title:  "Viens choisir tes parents"
 date:   2019-02-24 18:00:00 +0200
 month: février-2019
-image: viens-choisir.jpg
+image: assets/img/events/viens-choisir.jpg
 tarif: 5€
 ---
 

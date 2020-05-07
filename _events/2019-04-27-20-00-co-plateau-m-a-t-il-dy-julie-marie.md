@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau M’a t'il dy / Julie Marie"
 date:   2019-04-27 20:00:00 +0200
 month: avril-2019
-image: julie-marie.jpg
+image: assets/img/events/julie-marie.jpg
 image2: 51028530_777784295935478_7924788172398002176_n.jpg
 tarif: 8€
 ---

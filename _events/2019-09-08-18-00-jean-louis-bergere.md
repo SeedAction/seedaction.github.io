@@ -3,7 +3,7 @@ layout: event
 title:  "Jean Louis Bergère"
 date:   2019-09-08 18:00:00 +0200
 month: septembre-2019
-image: jl-bergere.jpg
+image: assets/img/events/jl-bergere.jpg
 tarif: 5€
 ---
 

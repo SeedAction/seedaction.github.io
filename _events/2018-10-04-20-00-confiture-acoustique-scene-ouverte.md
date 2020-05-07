@@ -4,7 +4,7 @@ title:  "Confiture acoustique (Scène ouverte)"
 date:   2018-10-04 20:00:00 +0200
 month: octobre-2018
 tarif: libre
-image: confiture.jpg
+image: assets/img/events/confiture.jpg
 ---
 
 

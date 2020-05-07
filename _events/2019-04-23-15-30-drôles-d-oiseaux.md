@@ -3,7 +3,7 @@ layout: event
 title:  "Drôles d'oiseaux"
 date:   2019-04-23 15:30:00 +0200
 month: avril-2019
-image: histoire-a-mains-accordelyonjpg-scaled.jpg
+image: assets/img/events/histoire-a-mains-accordelyonjpg-scaled.jpg
 tarif: 5€
 ---
 

@@ -3,7 +3,7 @@ layout: event
 title:  "Anatole (jeune public)"
 date:   2019-11-27 10:30:00 +0200
 month: novembre-2019
-image: jean-christophe.jpeg
+image: assets/img/events/jean-christophe.jpeg
 tarif: 5€
 ---
 

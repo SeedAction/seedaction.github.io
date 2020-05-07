@@ -3,7 +3,7 @@ layout: event
 title:  "La belle plante"
 date:   2019-12-07 20:00:00 +0200
 month: décembre-2019
-image: labelleplante-scaled.jpg
+image: assets/img/events/labelleplante-scaled.jpg
 tarif: 5€
 ---
 

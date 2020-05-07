@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Louise Combier / Côme"
 date:   2019-09-19 20:00:00 +0200
 month: septembre-2019
-image: combier-scaled.jpg
+image: assets/img/events/combier-scaled.jpg
 image2: come-150x150.jpg
 tarif: 5€
 ---

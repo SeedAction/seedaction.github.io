@@ -3,7 +3,7 @@ layout: event
 title:  "André Bonhomme"
 date:   2019-05-04 20:30:00 +0200
 month: mai-2019
-image: portrait-yeux-fermc3a9s-1-scaled.jpg
+image: assets/img/events/portrait-yeux-fermc3a9s-1-scaled.jpg
 tarif: 8€
 ---
 

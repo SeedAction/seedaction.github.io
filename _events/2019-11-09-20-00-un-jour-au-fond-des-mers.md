@@ -3,7 +3,7 @@ layout: event
 title:  "Un jour au fond des mers"
 date:   2019-11-09 20:00:00 +0200
 month: novembre-2019
-image: brotton-scaled.jpg
+image: assets/img/events/brotton-scaled.jpg
 tarif: 8€
 ---
 

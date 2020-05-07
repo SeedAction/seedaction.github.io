@@ -3,7 +3,7 @@ layout: event
 title:  "Slamourai + Hugo Duvillard"
 date:   2019-10-16 20:00:00 +0200
 month: octobre-2019
-image: slamourai.jpg
+image: assets/img/events/slamourai.jpg
 tarif: 5€
 ---
 

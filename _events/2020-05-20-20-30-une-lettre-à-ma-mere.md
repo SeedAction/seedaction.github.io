@@ -5,7 +5,7 @@ date:   2020-05-20 20:30:00 +0200
 month: mai-2020
 tarif: 5€
 tickets: https://www.helloasso.com/associations/abra/evenements/choeur-en-pente-spectacle-de-fin-d-annee-des-eleves-d-helene-piris
-image: une-lettre-c3a0-ma-mc3a8re.jpg
+image: assets/img/events/une-lettre-c3a0-ma-mc3a8re.jpg
 image2: une-lettre-c3a0-ma-mc3a8re.jpg
 ---
 

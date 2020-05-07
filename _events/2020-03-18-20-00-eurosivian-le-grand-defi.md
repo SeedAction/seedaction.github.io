@@ -3,7 +3,7 @@ layout: event
 title:  "EurosiVian Le Grand Défi"
 date:   2020-03-18 20:00:00 +0200
 month: mars-2020
-image: vian.jpg
+image: assets/img/events/vian.jpg
 ---
 
 

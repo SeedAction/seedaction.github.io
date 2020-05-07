@@ -3,7 +3,7 @@ layout: event
 title:  "Le Groupe (Impro Lyon)"
 date:   2019-06-01 20:30:00 +0200
 month: juin-2019
-image: impro.png
+image: assets/img/events/impro.png
 tarif: 5€
 ---
 

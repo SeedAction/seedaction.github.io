@@ -12,7 +12,7 @@
           {%- include date-french.html -%}
           <a href="{{ event.url | relative_url }}">
             {%- if event.image -%}
-              <img class="event__img" src="{{ site.baseurl }}/assets/img/events/{{ event.image }}" alt="{{ event.image }}">
+              <img class="event__img" src="{{ site.baseurl }}/{{ event.image }}" alt="{{ event.image }}">
             {% else %}
               <img class="event__img" src="{{ site.baseurl }}/assets/img/logo.png" alt="evenement">
             {%- endif -%}

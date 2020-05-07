@@ -3,7 +3,7 @@ layout: event
 title:  "Alexandre Castillon dans le cadre du festival des chants de mars"
 date:   2019-03-29 20:00:00 +0200
 month: mars-2019
-image: a_castillon_profil.png
+image: assets/img/events/a_castillon_profil.png
 image2: logo-cdm2019.jpg
 tarif: 8€
 ---

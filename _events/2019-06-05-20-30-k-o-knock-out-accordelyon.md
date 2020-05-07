@@ -3,7 +3,7 @@ layout: event
 title:  "K.O. | Knock Out (Accordélyon)"
 date:   2019-06-05 20:30:00 +0200
 month: juin-2019
-image: kolo.jpg
+image: assets/img/events/kolo.jpg
 tarif: 5€
 ---
 

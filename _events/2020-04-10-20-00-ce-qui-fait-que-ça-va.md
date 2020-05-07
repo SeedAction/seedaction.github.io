@@ -4,7 +4,7 @@ title:  "Ce qui fait que ça va"
 date:   2020-04-10 20:00:00 +0200
 month: avril-2020
 tarif: 8€
-image: dscf0039.jpg
+image: assets/img/events/dscf0039.jpg
 ---
 
 Avec Claire BREITENSTEIN

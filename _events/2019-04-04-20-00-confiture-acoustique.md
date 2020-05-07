@@ -3,7 +3,7 @@ layout: event
 title:  "Confiture acoustique"
 date:   2019-04-04 20:00:00 +0200
 month: avril-2019
-image: confiture2.jpg
+image: assets/img/events/confiture2.jpg
 tarif: libre
 ---
 

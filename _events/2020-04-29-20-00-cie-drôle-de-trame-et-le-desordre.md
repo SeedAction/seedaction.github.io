@@ -4,7 +4,7 @@ title:  "Cie Drôle de Trame et Le désordre"
 date:   2020-04-29 20:00:00 +0200
 month: avril-2020
 tarif: 5€
-image: mortel-dimanche.jpg
+image: assets/img/events/mortel-dimanche.jpg
 ---
 
 MORTEL DIMANCHE, mordante comédie familiale

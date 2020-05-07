@@ -3,7 +3,7 @@ layout: event
 title:  "Quizz poétique"
 date:   2019-01-16 20:00:00 +0200
 month: janvier-2019
-image: quizz.jpg
+image: assets/img/events/quizz.jpg
 tarif: libre
 ---
   

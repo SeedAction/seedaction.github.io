@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau leHache + Christopher Murray"
 date:   2019-11-22 20:00:00 +0200
 month: novembre-2019
-image: murraylehache-scaled.jpg
+image: assets/img/events/murraylehache-scaled.jpg
 tarif: 8€
 ---
 

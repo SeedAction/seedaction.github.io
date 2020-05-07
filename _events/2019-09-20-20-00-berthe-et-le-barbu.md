@@ -3,7 +3,7 @@ layout: event
 title:  "Berthe et le Barbu"
 date:   2019-09-20 20:00:00 +0200
 month: septembre-2019
-image: berthe-et-le-barbu.jpg
+image: assets/img/events/berthe-et-le-barbu.jpg
 tarif: 5€
 ---
 

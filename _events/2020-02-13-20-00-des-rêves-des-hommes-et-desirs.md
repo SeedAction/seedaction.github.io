@@ -3,7 +3,7 @@ layout: event
 title:  "Des rêves, des hommes et désirs"
 date:   2020-02-13 20:00:00 +0200
 month: février-2020
-image: ampoule.jpg
+image: assets/img/events/ampoule.jpg
 tarif: 8€
 ---
 

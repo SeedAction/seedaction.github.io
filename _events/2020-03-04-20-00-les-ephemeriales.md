@@ -3,7 +3,7 @@ layout: event
 title:  "Les Ephémeriales"
 date:   2020-03-04 20:00:00 +0200
 month: mars-2020
-image: ephemeriales.jpg
+image: assets/img/events/ephemeriales.jpg
 tarif: 5€
 ---
 

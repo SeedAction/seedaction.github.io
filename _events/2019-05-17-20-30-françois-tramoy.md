@@ -3,7 +3,7 @@ layout: event
 title:  "François Tramoy"
 date:   2019-05-17 20:30:00 +0200
 month: mai-2019
-image: dessin-jo-carré-2-scaled.jpg
+image: assets/img/events/dessin-jo-carré-2-scaled.jpg
 tarif: 5€
 ---
 

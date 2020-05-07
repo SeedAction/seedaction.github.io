@@ -3,7 +3,7 @@ layout: event
 title:  "Crêpes et fantaisie"
 date:   2019-01-31 20:00:00 +0200
 month: janvier-2019
-image: flyer-au-bon-gros-gras-grand-grain-agendarts-20171.jpg
+image: assets/img/events/flyer-au-bon-gros-gras-grand-grain-agendarts-20171.jpg
 tarif: 5€
 ---
 

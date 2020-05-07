@@ -3,7 +3,7 @@ layout: event
 title:  "Mouettes & Chansons"
 date:   2019-02-09 20:00:00 +0200
 month: février-2019
-image: mouettecfdb.jpg
+image: assets/img/events/mouettecfdb.jpg
 tarif: 8€
 ---
 

@@ -4,7 +4,7 @@ title:  "André Bonhomme"
 date:   2020-05-02 20:30:00 +0200
 month: mai-2020
 tarif: 8€
-image: portrait-yeux-fermc3a9s-1-scaled.jpg
+image: assets/img/events/portrait-yeux-fermc3a9s-1-scaled.jpg
 ---
 
 André poursuit son petit bonhomme de chemin, ignorant les modes et le monde du showbiz. Son âme de poète est suffisamment libre pour vagabonder sur d’autres chemins. 

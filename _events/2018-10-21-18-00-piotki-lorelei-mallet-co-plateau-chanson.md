@@ -3,7 +3,7 @@ layout: event
 title:  "Piotki + Lorelei Mallet co-plateau chanson"
 date:   2018-10-21 18:00:00 +0200
 month: octobre-2018
-image: mallet.jpg
+image: assets/img/events/mallet.jpg
 image2: piotki.jpg
 ---
 

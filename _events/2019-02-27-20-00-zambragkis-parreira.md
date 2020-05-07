@@ -3,7 +3,7 @@ layout: event
 title:  "Zambragkis / Parreira"
 date:   2019-02-27 20:00:00 +0200
 month: février-2019
-image: accordelyon.jpg
+image: assets/img/events/accordelyon.jpg
 tarif: 5€
 ---
 

@@ -3,7 +3,7 @@ layout: event
 title:  "Christien Paul"
 date:   2019-09-27 20:00:00 +0200
 month: septembre-2019
-image: paul-scaled.jpg
+image: assets/img/events/paul-scaled.jpg
 tarif: 8€
 ---
 

@@ -3,7 +3,7 @@ layout: event
 title:  "Confiture acoustique"
 date:   2019-06-06 20:00:00 +0200
 month: juin-2019
-image: confiture.jpg
+image: assets/img/events/confiture.jpg
 tarif: libre
 ---
 

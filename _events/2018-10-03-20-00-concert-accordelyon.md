@@ -3,7 +3,7 @@ layout: event
 title:  "Concert Accordélyon"
 date:   2018-10-03 20:00:00 +0200
 month: octobre-2018
-image: accordelyon.jpg
+image: assets/img/events/accordelyon.jpg
 ---
 
 euhfehrlkl

@@ -3,7 +3,7 @@ layout: event
 title:  "Louise O'Sman + Anne Lise Roche"
 date:   2020-01-18 20:00:00 +0200
 month: janvier-2020
-image: annelise.jpg
+image: assets/img/events/annelise.jpg
 image2: osman.jpg
 tarif: 5€
 ---

@@ -3,7 +3,7 @@ layout: event
 title:  "Pop'hAArpe avec Anne-Lise Perriguey"
 date:   2018-10-19 20:00:00 +0200
 month: octobre-2018
-image: pop-harpe.jpg
+image: assets/img/events/pop-harpe.jpg
 ---
 
 

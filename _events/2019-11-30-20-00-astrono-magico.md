@@ -3,7 +3,7 @@ layout: event
 title:  "Astrono-Magico"
 date:   2019-11-30 20:00:00 +0200
 month: novembre-2019
-image: flodjo.jpg
+image: assets/img/events/flodjo.jpg
 tarif: 5€
 ---
 

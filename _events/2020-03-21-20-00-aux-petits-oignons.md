@@ -3,7 +3,7 @@ layout: event
 title:  "Aux petits oignons"
 date:   2020-03-21 20:00:00 +0200
 month: mars-2020
-image: aux-ptits-oignons-flyer-recto.jpg
+image: assets/img/events/aux-ptits-oignons-flyer-recto.jpg
 tarif: 8€
 ---
 

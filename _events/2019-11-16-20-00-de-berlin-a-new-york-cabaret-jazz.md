@@ -3,7 +3,7 @@ layout: event
 title:  "De Berlin à New York, cabaret jazz"
 date:   2019-11-16 20:00:00 +0200
 month: novembre-2019
-image: christel.jpg
+image: assets/img/events/christel.jpg
 tarif: 5€
 ---
 

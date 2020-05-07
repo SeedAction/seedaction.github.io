@@ -3,7 +3,7 @@ layout: event
 title:  "Brassensserie"
 date:   2018-11-18 18:00:00 +0200
 month: novembre-2018
-image: gif-benahm-char.jpg
+image: assets/img/events/gif-benahm-char.jpg
 ---
 
 

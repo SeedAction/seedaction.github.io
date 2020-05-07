@@ -3,7 +3,7 @@ layout: event
 title:  "Sortie du livre 'À ma zone 3'"
 date:   2018-12-02 11:00:00 +0200
 month: décembre-2018
-image: claudine-lebegue.jpg
+image: assets/img/events/claudine-lebegue.jpg
 ---
 
 

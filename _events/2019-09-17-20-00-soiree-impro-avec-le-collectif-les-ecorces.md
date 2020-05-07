@@ -3,7 +3,7 @@ layout: event
 title:  "Soirée impro avec le collectif les Ecorcés"
 date:   2019-09-17 20:00:00 +0200
 month: septembre-2019
-image: ecorcc3a9s.jpg
+image: assets/img/events/ecorcc3a9s.jpg
 tarif: 5€
 ---
 

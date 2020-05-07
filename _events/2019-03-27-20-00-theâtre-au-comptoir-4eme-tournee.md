@@ -3,7 +3,7 @@ layout: event
 title:  "Théâtre au comptoir, 4ème tournée !"
 date:   2019-03-27 20:00:00 +0200
 month: mars-2019
-image: scene-au-comptoir1.jpg
+image: assets/img/events/scene-au-comptoir1.jpg
 tarif: 5€
 ---
 

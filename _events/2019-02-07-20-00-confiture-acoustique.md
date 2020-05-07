@@ -3,7 +3,7 @@ layout: event
 title:  "Confiture acoustique"
 date:   2019-02-07 20:00:00 +0200
 month: février-2019
-image: confiture2.jpg
+image: assets/img/events/confiture2.jpg
 tarif: libre
 ---
 

@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau  Z I B E L L I / Esther Carriqui"
 date:   2019-06-02 20:00:00 +0200
 month: juin-2019
-image: zibelli.jpg
+image: assets/img/events/zibelli.jpg
 image2: esther.jpg
 tarif: 5€
 ---

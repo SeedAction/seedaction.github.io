@@ -3,7 +3,7 @@ layout: event
 title:  "Histoires à mains (Accordélyon)"
 date:   2019-01-02 19:00:00 +0200
 month: janvier-2019
-image: histoire-a-mains-accordelyonjpg-scaled.jpg
+image: assets/img/events/histoire-a-mains-accordelyonjpg-scaled.jpg
 tarif: 5€
 ---
   

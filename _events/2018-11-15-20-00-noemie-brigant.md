@@ -3,7 +3,7 @@ layout: event
 title:  "Noémie Brigant"
 date:   2018-11-15 20:00:00 +0200
 month: novembre-2018
-image: no-brigant.jpg
+image: assets/img/events/no-brigant.jpg
 image2: home4.jpg
 ---
 

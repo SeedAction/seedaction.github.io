@@ -3,7 +3,7 @@ layout: event
 title:  "Blue Liz Station"
 date:   2019-06-16 18:00:00 +0200
 month: juin-2019
-image: blue-liz-station.jpg
+image: assets/img/events/blue-liz-station.jpg
 tarif: 5€
 ---
 

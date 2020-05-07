@@ -3,7 +3,7 @@ layout: event
 title:  "Carte blanche à Hélène Piris"
 date:   2019-12-15 18:00:00 +0200
 month: décembre-2019
-image: helene_piris_live.jpg
+image: assets/img/events/helene_piris_live.jpg
 tarif: 5€
 ---
 

@@ -3,7 +3,7 @@ layout: event
 title:  "Les 10 ans de la bande à Balk"
 date:   2019-12-20 20:00:00 +0200
 month: décembre-2019
-image: labandeabalk-1.jpg
+image: assets/img/events/labandeabalk-1.jpg
 tarif: 5€
 ---
 

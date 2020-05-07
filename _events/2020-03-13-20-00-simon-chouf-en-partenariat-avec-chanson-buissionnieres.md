@@ -3,7 +3,7 @@ layout: event
 title:  "Simon Chouf (En partenariat avec Chanson Buissionnières)"
 date:   2020-03-13 20:00:00 +0200
 month: mars-2020
-image: chouf.jpg
+image: assets/img/events/chouf.jpg
 tarif: 5€
 ---
 

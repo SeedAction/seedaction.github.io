@@ -3,7 +3,7 @@ layout: event
 title:  "Conférence de presque"
 date:   2019-10-11 20:00:00 +0200
 month: octobre-2019
-image: conf.jpg
+image: assets/img/events/conf.jpg
 tarif: 8€
 ---
 

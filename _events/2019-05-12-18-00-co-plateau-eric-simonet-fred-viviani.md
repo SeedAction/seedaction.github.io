@@ -3,7 +3,7 @@ layout: event
 title:  "Co plateau Eric Simonet / Fred Viviani"
 date:   2019-05-12 18:00:00 +0200
 month: mai-2019
-image: viviani.jpg
+image: assets/img/events/viviani.jpg
 image2: simonet-150x150.jpg
 tarif: 5€
 ---

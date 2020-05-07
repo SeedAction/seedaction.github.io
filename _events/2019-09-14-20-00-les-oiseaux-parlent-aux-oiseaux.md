@@ -3,7 +3,7 @@ layout: event
 title:  "Les oiseaux parlent aux oiseaux"
 date:   2019-09-14 20:00:00 +0200
 month: septembre-2019
-image: les-oiseaux.jpg
+image: assets/img/events/les-oiseaux.jpg
 tarif: 5€
 ---
 

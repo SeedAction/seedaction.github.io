@@ -3,7 +3,7 @@ layout: event
 title:  "Confiture acoustique"
 date:   2018-11-01 20:00:00 +0200
 month: novembre-2018
-image: confiture.jpg
+image: assets/img/events/confiture.jpg
 ---
 
 

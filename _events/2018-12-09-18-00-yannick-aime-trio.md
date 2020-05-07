@@ -3,7 +3,7 @@ layout: event
 title:  "Yannick Aime Trio"
 date:   2018-12-09 18:00:00 +0200
 month: décembre-2018
-image: yannick-aime-trio2.jpg
+image: assets/img/events/yannick-aime-trio2.jpg
 ---
 
 **

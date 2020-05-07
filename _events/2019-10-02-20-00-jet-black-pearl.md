@@ -3,7 +3,7 @@ layout: event
 title:  "JET BLACK PEARL"
 date:   2019-10-02 20:00:00 +0200
 month: octobre-2019
-image: accordelyon.jpg
+image: assets/img/events/accordelyon.jpg
 tarif: libre
 ---
 

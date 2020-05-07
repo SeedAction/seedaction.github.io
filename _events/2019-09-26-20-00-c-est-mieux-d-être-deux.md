@@ -3,7 +3,7 @@ layout: event
 title:  "C'est mieux d'être deux"
 date:   2019-09-26 20:00:00 +0200
 month: septembre-2019
-image: maud.jpg
+image: assets/img/events/maud.jpg
 tarif: 5€
 ---
 

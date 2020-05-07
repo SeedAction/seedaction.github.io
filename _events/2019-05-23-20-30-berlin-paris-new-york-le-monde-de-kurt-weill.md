@@ -3,7 +3,7 @@ layout: event
 title:  "Berlin, Paris, New-York - Le monde de Kurt Weill"
 date:   2019-05-23 20:30:00 +0200
 month: mai-2019
-image: Weill-1.jpg
+image: assets/img/events/Weill-1.jpg
 tarif: 5€
 ---
 

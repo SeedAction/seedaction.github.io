@@ -3,7 +3,7 @@ layout: event
 title:  "Lecture-spectacle Têtes farçues de Eugène Durif"
 date:   2019-04-24 20:00:00 +0200
 month: avril-2019
-image: porter-le-chapeau.jpg
+image: assets/img/events/porter-le-chapeau.jpg
 tarif: 5€
 ---
 

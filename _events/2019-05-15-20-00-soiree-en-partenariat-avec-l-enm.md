@@ -3,7 +3,7 @@ layout: event
 title:  "Soirée en partenariat avec l’ENM"
 date:   2019-05-15 20:00:00 +0200
 month: mai-2019
-image: enm1.jpg
+image: assets/img/events/enm1.jpg
 tarif: libre
 ---
 

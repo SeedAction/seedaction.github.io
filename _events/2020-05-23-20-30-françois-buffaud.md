@@ -4,6 +4,7 @@ title:  "François Buffaud"
 date:   2020-05-23 20:30:00 +0200
 month: mai-2020
 tarif: 8€
+tickets: https://www.helloasso.com/associations/abra/evenements/choeur-en-pente-spectacle-de-fin-d-annee-des-eleves-d-helene-piris
 image: buffaud2.jpg
 ---
 

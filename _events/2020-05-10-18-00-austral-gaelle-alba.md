@@ -4,6 +4,7 @@ title:  "Austral / Gaëlle Alba"
 date:   2020-05-10 18:00:00 +0200
 month: mai-2020
 tarif: 8€
+tickets: https://www.helloasso.com/associations/abra/evenements/choeur-en-pente-spectacle-de-fin-d-annee-des-eleves-d-helene-piris
 image: 3-scaled.jpg
 image2: tc3a9lc3a9chargement.jpg
 ---
